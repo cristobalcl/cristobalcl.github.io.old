@@ -10,6 +10,27 @@
     <updated>Fri, 30 Jan 2015 00:00:00 UTC</updated>
     
     <item>
+      <title>About me</title>
+      <link>http://xn--cristbal-z3a.com/about/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;When I was 13 years old I found in my house a little manual about programming in &lt;strong&gt;GW-BASIC&lt;/strong&gt;. Making something with it was a nightmare but also a lot of fun. Just after I used &lt;strong&gt;Turbo Basic&lt;/strong&gt;, &lt;strong&gt;QBasic&lt;/strong&gt;, &lt;strong&gt;QuickBASIC&lt;/strong&gt;, &lt;strong&gt;Visual Basic&lt;/strong&gt;,&amp;hellip; I usually did some programs with beautiful GUIs and databases. But then I discover &lt;strong&gt;Turbo Pascal&lt;/strong&gt;. Things got serious with it, and I started doing graphical things.&lt;/p&gt;
+
+&lt;p&gt;Firstly I began doing very simple &lt;em&gt;videogames&lt;/em&gt;, but then I discover the &lt;a href=&#34;http://en.wikipedia.org/wiki/Demoscene&#34;&gt;demoscene&lt;/a&gt;. I learned a lot about &lt;em&gt;direct video memory access, algorithms, sound cards, low level programming,&amp;hellip;&lt;/em&gt; At that time I published my first software: &lt;strong&gt;MagicTXT&lt;/strong&gt;. There was no Internet back then, so it was distributed by a magazine through 3.5&amp;rdquo; floppy disks and ordinary mail.&lt;/p&gt;
+
+&lt;p&gt;I switch to &lt;strong&gt;C&lt;/strong&gt; and &lt;strong&gt;assembler&lt;/strong&gt; and build some interesting &lt;em&gt;graphic engines&lt;/em&gt; for 2D and 3D. Also I began using &lt;strong&gt;Emacs&lt;/strong&gt;, what made me discover &lt;em&gt;free software&lt;/em&gt; and &lt;strong&gt;Linux&lt;/strong&gt;. Little after I started college and my productivity dropped. Anyway I kept learning about &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and Linux outside the classroom. It was not all time wasted in the University: for my bachelor tesis I worked in &lt;em&gt;computer vision&lt;/em&gt; with video, and I developed &lt;strong&gt;cvBlob&lt;/strong&gt;, my first free software project. I use &lt;strong&gt;Vim&lt;/strong&gt; since then.&lt;/p&gt;
+
+&lt;p&gt;After, I got a job working with what I like most: Linux, C++, Python, &lt;strong&gt;Bash&lt;/strong&gt;,&amp;hellip; all in the server-side trenches.&lt;/p&gt;
+
+&lt;p&gt;Nowadays I&amp;rsquo;m passionated about web servers, scripting, cloud computing,&amp;hellip; and much more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Personal projects</title>
       <link>http://xn--cristbal-z3a.com/projects/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 UTC</pubDate>
@@ -39,27 +60,6 @@
 &lt;p&gt;Blob library for OpenCV, widely used in computer vision and robotic research.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://cvblob.googlecode.com&#34;&gt;http://cvblob.googlecode.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>http://xn--cristbal-z3a.com/about/</link>
-      <pubDate>Fri, 30 Jan 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://xn--cristbal-z3a.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;When I was 13 years old I found in my house a little manual about programming in &lt;strong&gt;GW-BASIC&lt;/strong&gt;. Making something with it was a nightmare but also a lot of fun. Just after I used &lt;strong&gt;Turbo Basic&lt;/strong&gt;, &lt;strong&gt;QBasic&lt;/strong&gt;, &lt;strong&gt;QuickBASIC&lt;/strong&gt;, &lt;strong&gt;Visual Basic&lt;/strong&gt;,&amp;hellip; I usually did some programs with beautiful GUIs and databases. But then I discover &lt;strong&gt;Turbo Pascal&lt;/strong&gt;. Things got serious with it, and I started doing graphical things.&lt;/p&gt;
-
-&lt;p&gt;Firstly I began doing very simple &lt;em&gt;videogames&lt;/em&gt;, but then I discover the &lt;a href=&#34;http://en.wikipedia.org/wiki/Demoscene&#34;&gt;demoscene&lt;/a&gt;. I learned a lot about &lt;em&gt;direct video memory access, algorithms, sound cards, low level programming,&amp;hellip;&lt;/em&gt; At that time I published my first software: &lt;strong&gt;MagicTXT&lt;/strong&gt;. There was no Internet back then, so it was distributed by a magazine through 3.5&amp;rdquo; floppy disks and ordinary mail.&lt;/p&gt;
-
-&lt;p&gt;I switch to &lt;strong&gt;C&lt;/strong&gt; and &lt;strong&gt;assembler&lt;/strong&gt; and build some interesting &lt;em&gt;graphic engines&lt;/em&gt; for 2D and 3D. Also I began using &lt;strong&gt;Emacs&lt;/strong&gt;, what made me discover &lt;em&gt;free software&lt;/em&gt; and &lt;strong&gt;Linux&lt;/strong&gt;. Little after I started college and my productivity dropped. Anyway I kept learning about &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and Linux outside the classroom. It was not all time wasted in the University: for my bachelor tesis I worked in &lt;em&gt;computer vision&lt;/em&gt; with video, and I developed &lt;strong&gt;cvBlob&lt;/strong&gt;, my first free software project. I use &lt;strong&gt;Vim&lt;/strong&gt; since then.&lt;/p&gt;
-
-&lt;p&gt;After, I got a job working with what I like most: Linux, C++, Python, &lt;strong&gt;Bash&lt;/strong&gt;,&amp;hellip; all in the server-side trenches.&lt;/p&gt;
-
-&lt;p&gt;Nowadays I&amp;rsquo;m passionated about web servers, scripting, cloud computing,&amp;hellip; and much more.&lt;/p&gt;
 </description>
     </item>
     
