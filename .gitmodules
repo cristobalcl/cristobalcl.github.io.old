@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:cristobalcl/cristobalcl.github.io.git
+[submodule "themes/hugo-blanco"]
+	path = themes/hugo-blanco
+	url = git@github.com:cristobalcl/hugo-blanco.git
