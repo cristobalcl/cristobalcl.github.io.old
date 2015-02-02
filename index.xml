@@ -7,26 +7,188 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 30 Jan 2015 00:00:00 UTC</updated>
+    <updated>Mon, 02 Feb 2015 00:00:00 UTC</updated>
     
     <item>
-      <title>About me</title>
-      <link>http://xn--cristbal-z3a.com/about/</link>
-      <pubDate>Fri, 30 Jan 2015 00:00:00 UTC</pubDate>
+      <title>Curriculum Vitae</title>
+      <link>http://xn--cristbal-z3a.com/cv/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;
-&lt;/p&gt;
+      <guid>http://xn--cristbal-z3a.com/cv/</guid>
+      <description>
 
-&lt;p&gt;When I was 13 years old I found in my house a little manual about programming in &lt;strong&gt;GW-BASIC&lt;/strong&gt;. Making something with it was a nightmare but also a lot of fun. Just after I used &lt;strong&gt;Turbo Basic&lt;/strong&gt;, &lt;strong&gt;QBasic&lt;/strong&gt;, &lt;strong&gt;QuickBASIC&lt;/strong&gt;, &lt;strong&gt;Visual Basic&lt;/strong&gt;,&amp;hellip; I usually did some programs with beautiful GUIs and databases. But then I discover &lt;strong&gt;Turbo Pascal&lt;/strong&gt;. Things got serious with it, and I started doing graphical things.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Creativity is intelligence having fun.”&lt;/em&gt; – Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Firstly I began doing very simple &lt;em&gt;videogames&lt;/em&gt;, but then I discover the &lt;a href=&#34;http://en.wikipedia.org/wiki/Demoscene&#34;&gt;demoscene&lt;/a&gt;. I learned a lot about &lt;em&gt;direct video memory access, algorithms, sound cards, low level programming,&amp;hellip;&lt;/em&gt; At that time I published my first software: &lt;strong&gt;MagicTXT&lt;/strong&gt;. There was no Internet back then, so it was distributed by a magazine through 3.5&amp;rdquo; floppy disks and ordinary mail.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; Calle Grilo 13, 1ºB, 29007 Málaga, Spain&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +34 655 52 79 11&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;ccarnerolinan@gmail.com&#34;&gt;ccarnerolinan@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal web:&lt;/strong&gt; &lt;a href=&#34;http://cristóbal.com&#34;&gt;http://cristóbal.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;http://es.linkedin.com/in/ccarnerolinan/&#34;&gt;http://es.linkedin.com/in/ccarnerolinan/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of birth:&lt;/strong&gt; 12th February, 1981&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;I switch to &lt;strong&gt;C&lt;/strong&gt; and &lt;strong&gt;assembler&lt;/strong&gt; and build some interesting &lt;em&gt;graphic engines&lt;/em&gt; for 2D and 3D. Also I began using &lt;strong&gt;Emacs&lt;/strong&gt;, what made me discover &lt;em&gt;free software&lt;/em&gt; and &lt;strong&gt;Linux&lt;/strong&gt;. Little after I started college and my productivity dropped. Anyway I kept learning about &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and Linux outside the classroom. It was not all time wasted in the University: for my bachelor tesis I worked in &lt;em&gt;computer vision&lt;/em&gt; with video, and I developed &lt;strong&gt;cvBlob&lt;/strong&gt;, my first free software project. I use &lt;strong&gt;Vim&lt;/strong&gt; since then.&lt;/p&gt;
+&lt;h1 id=&#34;toc_0&#34;&gt;Summary&lt;/h1&gt;
 
-&lt;p&gt;After, I got a job working with what I like most: Linux, C++, Python, &lt;strong&gt;Bash&lt;/strong&gt;,&amp;hellip; all in the server-side trenches.&lt;/p&gt;
+&lt;p&gt;More than 10 years of professional experience in the software industry and university research groups. Expertise in developing, deploy and manage server-side software and web services.&lt;/p&gt;
 
-&lt;p&gt;Nowadays I&amp;rsquo;m passionated about web servers, scripting, cloud computing,&amp;hellip; and much more.&lt;/p&gt;
+&lt;h1 id=&#34;toc_1&#34;&gt;Education&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2009 – 2011 &lt;strong&gt;Master in Software Engineer and Artificial Intelligence&lt;/strong&gt;, Universidad de Málaga.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2002 – 2007 &lt;strong&gt;Computer and Software Engineering&lt;/strong&gt;, Universidad de Málaga.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;5-year university degree. Bachelor Thesis approved with Special Distinction.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;toc_2&#34;&gt;Experience&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2014 – 2015 &lt;strong&gt;Axafone&lt;/strong&gt;, &lt;em&gt;Consultant&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web technology consultancy.&lt;/li&gt;
+&lt;li&gt;Customized web crawlers.&lt;/li&gt;
+&lt;li&gt;Speaker.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013 – 2014 &lt;strong&gt;CursosDeSEO&lt;/strong&gt;, &lt;em&gt;Entrepreneur, DevOps&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Search engine of courses from different platforms and formats.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2011 – 2013 &lt;strong&gt;Melomics Media&lt;/strong&gt;, &lt;em&gt;DevOps, System Administrator&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Server side development and deploy of a massive online music repository, with searches, streaming, purchases and public API.&lt;/li&gt;
+&lt;li&gt;Administration of several Debian servers.&lt;/li&gt;
+&lt;li&gt;Development and deploy of automatic video edition software with additional post-processing capacities as chroma key, effects, titles, subtitles, publishing,&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2009 – 2011 &lt;strong&gt;Universidad de Málaga&lt;/strong&gt;, &lt;em&gt;Researcher&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Computer vision research in the department of &lt;em&gt;“Computational Intelligence and Image Analysis”&lt;/em&gt;, managed by José Muñoz Perez and Enrique Dominguez Merino.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2007 – 2009 &lt;strong&gt;Tedial S.L.&lt;/strong&gt;, &lt;em&gt;Software Developer, System Administrator&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Server-side media storage technologies.&lt;/li&gt;
+&lt;li&gt;Authentication, authorization, and access control.&lt;/li&gt;
+&lt;li&gt;Management of surveillance cameras.&lt;/li&gt;
+&lt;li&gt;Deployment of software and administration of several SuSE Enterprise Server installations.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2005 – 2006 &lt;strong&gt;Novasoft&lt;/strong&gt;, &lt;em&gt;Software and Web Developer&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Educational video games.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;toc_3&#34;&gt;Master Thesis&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+    &lt;em&gt;“Shape recognition through new convexity descriptors”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisors:&lt;/strong&gt;
+    José Muñoz Perez, Enrique Dominguez Merino&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
+    For this project several new convexity descriptors were devised. Then they were tested in the recognition of the &lt;em&gt;American Sign Language&lt;/em&gt; used by deaf people.&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_4&#34;&gt;Bachelor Thesis&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
+    &lt;em&gt;“A Video Surveillance System for Fall Detection”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisors:&lt;/strong&gt;
+    José Muñoz Perez&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
+    Development of a video surveillance software to automatically detect the fall of persons.&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_5&#34;&gt;Free Software Projects&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Since 2014 &lt;strong&gt;WooDPD&lt;/strong&gt;, &lt;a href=&#34;http://woodpdplugin.com&#34;&gt;http://woodpdplugin.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;WordPress Plugin to integrate DPD purchases in WooCommerce.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since 2013 &lt;strong&gt;OrigamiPress&lt;/strong&gt;, &lt;a href=&#34;http://origamipress.com&#34;&gt;http://origamipress.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Blog tool, publishing platform, and CMS developed in Python. Yet to be published.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since 2017 &lt;strong&gt;cvBlob&lt;/strong&gt;, &lt;a href=&#34;http://woodpdplugin.com&#34;&gt;http://woodpdplugin.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Blob library for OpenCV, widely used in computer vision and robotic research.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;toc_6&#34;&gt;Languages&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spanish&lt;/strong&gt; Native&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt; Fluent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;toc_7&#34;&gt;Qualities&lt;/h1&gt;
+
+&lt;h2 id=&#34;toc_8&#34;&gt;Computer skills&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;
+    C, C++, Python, Java, Bash, HTML5, CSS, JSON, JavaScript, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&amp;amp;T).
+&lt;strong&gt;Databases:&lt;/strong&gt;
+    Oracle, MySQL, MongoDB, Redis, Memcached.
+&lt;strong&gt;Web servers:&lt;/strong&gt;
+    Apache, Nginx.
+&lt;strong&gt;Environments:&lt;/strong&gt;
+    Vim, GDB, Make, CMake, KDevelop, Eclipse, Visual Studio. Mercurial, Git, Subversion, CVS.
+&lt;strong&gt;Frameworks:&lt;/strong&gt;
+    Pyramid, web.py, Elasticsearch, Scrapy, Bootstrap, Mako, Supervisor, Celery, Cornice, WordPress, OpenCV, OpenGL, OAuth.
+&lt;strong&gt;APIs:&lt;/strong&gt;
+    PayPal, Google Wallet, Braintree.
+&lt;strong&gt;SO:&lt;/strong&gt;
+    GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Windows.
+&lt;strong&gt;Others:&lt;/strong&gt;
+    LATEX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash, Dreamweaver, VMWare.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_9&#34;&gt;Personal skills&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_10&#34;&gt;Engineering:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to find creative solutions.&lt;/li&gt;
+&lt;li&gt;Strong analytical, able to anticipate issues, resolve concerns and improve efficiency.&lt;/li&gt;
+&lt;li&gt;Good software engineering skills.&lt;/li&gt;
+&lt;li&gt;Care of coding standards.&lt;/li&gt;
+&lt;li&gt;Eager to learn and develop new skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;Others:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to work without direct supervision.&lt;/li&gt;
+&lt;li&gt;Skilled in building excellent rapport with team members and clients.&lt;/li&gt;
+&lt;li&gt;Great verbal and written communication skills (wide experience in both Spanish and English).&lt;/li&gt;
+&lt;li&gt;Professional experience in public speaking.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;toc_12&#34;&gt;Interests&lt;/h1&gt;
+
+&lt;p&gt;GNU/Linux, web servers, web spiders, image processing, computer vision, computer graphics, artificial intelligence, developing compilers, security.&lt;/p&gt;
 </description>
     </item>
     
@@ -64,6 +226,27 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>http://xn--cristbal-z3a.com/about/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;When I was 13 years old I found in my house a little manual about programming in &lt;strong&gt;GW-BASIC&lt;/strong&gt;. Making something with it was a nightmare but also a lot of fun. Just after I used &lt;strong&gt;Turbo Basic&lt;/strong&gt;, &lt;strong&gt;QBasic&lt;/strong&gt;, &lt;strong&gt;QuickBASIC&lt;/strong&gt;, &lt;strong&gt;Visual Basic&lt;/strong&gt;,&amp;hellip; I usually did some programs with beautiful GUIs and databases. But then I discover &lt;strong&gt;Turbo Pascal&lt;/strong&gt;. Things got serious with it, and I started doing graphical things.&lt;/p&gt;
+
+&lt;p&gt;Firstly I began doing very simple &lt;em&gt;videogames&lt;/em&gt;, but then I discover the &lt;a href=&#34;http://en.wikipedia.org/wiki/Demoscene&#34;&gt;demoscene&lt;/a&gt;. I learned a lot about &lt;em&gt;direct video memory access, algorithms, sound cards, low level programming,&amp;hellip;&lt;/em&gt; At that time I published my first software: &lt;strong&gt;MagicTXT&lt;/strong&gt;. There was no Internet back then, so it was distributed by a magazine through 3.5&amp;rdquo; floppy disks and ordinary mail.&lt;/p&gt;
+
+&lt;p&gt;I switch to &lt;strong&gt;C&lt;/strong&gt; and &lt;strong&gt;assembler&lt;/strong&gt; and build some interesting &lt;em&gt;graphic engines&lt;/em&gt; for 2D and 3D. Also I began using &lt;strong&gt;Emacs&lt;/strong&gt;, what made me discover &lt;em&gt;free software&lt;/em&gt; and &lt;strong&gt;Linux&lt;/strong&gt;. Little after I started college and my productivity dropped. Anyway I kept learning about &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and Linux outside the classroom. It was not all time wasted in the University: for my bachelor tesis I worked in &lt;em&gt;computer vision&lt;/em&gt; with video, and I developed &lt;strong&gt;cvBlob&lt;/strong&gt;, my first free software project. I use &lt;strong&gt;Vim&lt;/strong&gt; since then.&lt;/p&gt;
+
+&lt;p&gt;After, I got a job working with what I like most: Linux, C++, Python, &lt;strong&gt;Bash&lt;/strong&gt;,&amp;hellip; all in the server-side trenches.&lt;/p&gt;
+
+&lt;p&gt;Nowadays I&amp;rsquo;m passionated about web servers, scripting, cloud computing,&amp;hellip; and much more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello World!</title>
       <link>http://xn--cristbal-z3a.com/post/hello-world/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
@@ -74,26 +257,6 @@
 &lt;h2 id=&#34;toc_0&#34;&gt;Welcome&lt;/h2&gt;
 
 &lt;p&gt;Hi, my name is &lt;strong&gt;Cristóbal&lt;/strong&gt; and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://xn--cristbal-z3a.com/cv/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://xn--cristbal-z3a.com/cv/</guid>
-      <description>&lt;p&gt;&amp;ndash;2015-02-02 21:12:49&amp;ndash;  &lt;a href=&#34;https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md&#34;&gt;https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md&lt;/a&gt;
-Resolviendo raw.githubusercontent.com (raw.githubusercontent.com)&amp;hellip; 23.235.43.133
-Conectando con raw.githubusercontent.com (raw.githubusercontent.com)[23.235.43.133]:443&amp;hellip; conectado.
-Petición HTTP enviada, esperando respuesta&amp;hellip; 200 OK
-Longitud: 4889 (4,8K) [text/plain]
-Grabando a: “cv.md”&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; 0K ....                                                  100%  538K=0,009s
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;2015-02-02 21:12:50 (538 KB/s) - “cv.md” guardado [&lt;sup&gt;4889&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4889&lt;/sub&gt;]&lt;/p&gt;
 </description>
     </item>
     
