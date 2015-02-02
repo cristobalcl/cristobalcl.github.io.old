@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 description: "Curriculum Vitae"
-date: "2015-01-30"
+date: "2015-02-02"
 slug: "cv"
 ---
 
@@ -9,7 +9,8 @@ slug: "cv"
 
 * **Address:** Calle Grilo 13, 1ºB, 29007 Málaga, Spain
 * **Phone:** +34 655 52 79 11
-* **Email:** [ccarnerolinan@gmail.com](mailto:ccarnerolinan@gmail.com)
+* **Email:** [ccarnerolinan@gmail.com](ccarnerolinan@gmail.com)
+* **Personal web:** [http://cristóbal.com](http://cristóbal.com)
 * **LinkedIn:** [http://es.linkedin.com/in/ccarnerolinan/](http://es.linkedin.com/in/ccarnerolinan/)
 * **Date of birth:** 12th February, 1981
 
@@ -34,68 +35,61 @@ Experience
 	+ Web technology consultancy.
 	+ Customized web crawlers.
 	+ Speaker.
-
 * 2013 – 2014 **CursosDeSEO**, *Entrepreneur, DevOps*.
 
 	> Search engine of courses from different platforms and formats.
-
-* 2011 – 2013 **Melomics Media**, *DevOps*.
+* 2011 – 2013 **Melomics Media**, *DevOps, System Administrator*.
 
 	+ Server side development and deploy of a massive online music repository, with searches, streaming, purchases and public API.
 	+ Administration of several Debian servers.
 	+ Development and deploy of automatic video edition software with additional post-processing capacities as chroma key, effects, titles, subtitles, publishing,...
-
 * 2009 – 2011 **Universidad de Málaga**, *Researcher*.
 
-	> Computer vision research in the department of *“Computational Intel ligence and Image Analysis”*, managed by José Muñoz Perez and Enrique Dominguez Merino.
-
-* 2007 – 2009 **Tedial S.L.**, *Software Developer and System Administrator*.
+	> Computer vision research in the department of *“Computational Intelligence and Image Analysis”*, managed by José Muñoz Perez and Enrique Dominguez Merino.
+* 2007 – 2009 **Tedial S.L.**, *Software Developer, System Administrator*.
 
 	+ Server-side media storage technologies.
 	+ Authentication, authorization, and access control.
 	+ Management of surveillance cameras.
 	+ Deployment of software and administration of several SuSE Enterprise Server installations.
-
 * 2005 – 2006 **Novasoft**, *Software and Web Developer*.
 
 	> Educational video games.
 
 Master Thesis
-=============
+===============
 
 **Title:**
-       *“Shape recognition through new convexity descriptors”*
+	*“Shape recognition through new convexity descriptors”*
 
 **Supervisors:**
-       José Muñoz Perez, Enrique Dominguez Merino
+	José Muñoz Perez, Enrique Dominguez Merino
 
 **Description:**
-       For this project several new convexity descriptors were devised. Then they were tested in the recognition of the *American Sign Language* used by deaf people.
+	For this project several new convexity descriptors were devised. Then they were tested in the recognition of the *American Sign Language* used by deaf people.
 
 Bachelor Thesis
 ===============
 
 **Title:**
-       *“A Video Surveillance System for Fall Detection”*
+	*“A Video Surveillance System for Fall Detection”*
 
 **Supervisors:**
-       José Muñoz Perez
+	José Muñoz Perez
 
 **Description:**
-       Development of a video surveillance software to automatically detect the fall of persons.
+	Development of a video surveillance software to automatically detect the fall of persons.
 
 Free Software Projects
 ======================
 
-* Since 2014 **WooDPD**, [http://woodpdplugin.com](http://woodpdplugin.com).
+* Since 2014 **WooDPD**, <http://woodpdplugin.com>.
 
 	> WordPress Plugin to integrate DPD purchases in WooCommerce.
+* Since 2013 **OrigamiPress**, <http://origamipress.com>.
 
-* Since 2013 **OrigamiPress**, [http://origamipress.com](http://origamipress.com) (yet to be published).
-
-	> Blog tool, publishing platform, and CMS developed in Python.
-
-* Since 2007 **cvBlob**, [http://cvblob.googlecode.com](http://cvblob.googlecode.com).
+	> Blog tool, publishing platform, and CMS developed in Python. Yet to be published.
+* Since 2017 **cvBlob**, <http://woodpdplugin.com>.
 
 	> Blob library for OpenCV, widely used in computer vision and robotic research.
 
@@ -112,28 +106,28 @@ Computer skills
 ---------------
 
 **Languages:**
-       C, C++, Python, Java, Bash, HTML5, CSS, JSON, JavaScript, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&T).
+	C, C++, Python, Java, Bash, HTML5, CSS, JSON, JavaScript, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&T).
 
 **Databases:**
-       Oracle, MySQL, MongoDB, Redis, Memcached.
+	Oracle, MySQL, MongoDB, Redis, Memcached.
 
 **Web servers:**
-       Apache, Nginx.
+	Apache, Nginx.
 
 **Environments:**
-       Vim, GDB, Make, CMake, KDevelop, Eclipse, Visual Studio. Mercurial, Git, Subversion, CVS.
+	Vim, GDB, Make, CMake, KDevelop, Eclipse, Visual Studio. Mercurial, Git, Subversion, CVS.
 
 **Frameworks:**
-       Pyramid, web.py, Elasticsearch, Scrapy, Bootstrap, Mako, Supervisor, Celery, Cornice, WordPress, OpenCV, OpenGL, OAuth.
+	Pyramid, web.py, Elasticsearch, Scrapy, Bootstrap, Mako, Supervisor, Celery, Cornice, WordPress, OpenCV, OpenGL, OAuth.
 
 **APIs:**
-       PayPal, Google Wallet, Braintree.
+	PayPal, Google Wallet, Braintree.
 
 **SO:**
-       GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Windows.
+	GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Windows.
 
 **Others:**
-       LATEX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash, Dreamweaver, VMWare.
+	LATEX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash, Dreamweaver, VMWare.
 
 Personal skills
 ---------------

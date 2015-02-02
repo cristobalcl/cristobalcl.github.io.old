@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Updating cv.md..."
+wget https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md -O content/cv.md
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project. 
