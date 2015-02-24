@@ -5,6 +5,16 @@ date: "2015-01-30"
 slug: "projects"
 ---
 
+RegaloInteligente
+-----------------
+
+[![RegaloInteligente](/images/regalointeligente-logo.png "RegaloInteligente")](http://regalointeligente.com)
+
+Gift search engine.
+
+* [Web application](http://regalointeligente.com)
+* [Android app](https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app)
+
 Free software projects
 ======================
 

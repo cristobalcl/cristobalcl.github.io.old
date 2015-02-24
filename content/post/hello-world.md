@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-date: "2014-03-29"
+date: "2015-02-01"
 description: "First post."
 categories:
     - "general"
