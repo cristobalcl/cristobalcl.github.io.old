@@ -7,12 +7,12 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 24 Feb 2015 00:00:00 UTC</updated>
+    <updated>Tue, 05 May 2015 00:00:00 UTC</updated>
     
     <item>
       <title>Curriculum Vitae</title>
       <link>http://xn--cristbal-z3a.com/cv/</link>
-      <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 05 May 2015 00:00:00 UTC</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/cv/</guid>
       <description>
@@ -51,7 +51,7 @@
 &lt;h1 id=&#34;toc_2&#34;&gt;Experience&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Since 2015 &lt;strong&gt;RegaloInteligente&lt;/strong&gt;, &lt;em&gt;Founder, DevOps&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Since 2015 &lt;strong&gt;RegaloInteligente&lt;/strong&gt;, &lt;em&gt;Founder&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Search engine of gifts with parameters like gender and age, and filter for prices.&lt;/li&gt;
@@ -67,18 +67,18 @@
 &lt;li&gt;Speaker.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;2013 – 2014 &lt;strong&gt;CursosDeSEO&lt;/strong&gt;, &lt;em&gt;Founder, DevOps&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;2013 – 2014 &lt;strong&gt;CursosDeSEO&lt;/strong&gt;, &lt;em&gt;Founder&lt;/em&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Search engine of courses from different platforms and formats.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;2011 – 2013 &lt;strong&gt;Melomics Media&lt;/strong&gt;, &lt;em&gt;DevOps, System Administrator&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;2011 – 2013 &lt;strong&gt;Melomics Media&lt;/strong&gt;, &lt;em&gt;Backend Developer, DevOps&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Server side development and deploy of a massive online music repository, with searches, streaming, purchases and public API.&lt;/li&gt;
-&lt;li&gt;Administration of several Debian servers.&lt;/li&gt;
-&lt;li&gt;Development and deploy of automatic video edition software with additional post-processing capacities as chroma key, effects, titles, subtitles, publishing,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Server side development and deployment of a massive online music repository, with search, streaming, purchases and public API.&lt;/li&gt;
+&lt;li&gt;Administration of cluster of Debian servers.&lt;/li&gt;
+&lt;li&gt;Development and deployment of automatic video edition software with additional post-processing capabilities as chroma key, effects, titles, subtitles, publishing,&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2009 – 2011 &lt;strong&gt;Universidad de Málaga&lt;/strong&gt;, &lt;em&gt;Researcher&lt;/em&gt;.&lt;/p&gt;
@@ -87,7 +87,7 @@
 &lt;p&gt;Computer vision research in the department of &lt;em&gt;“Computational Intelligence and Image Analysis”&lt;/em&gt;, managed by José Muñoz Perez and Enrique Dominguez Merino.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;2007 – 2009 &lt;strong&gt;Tedial S.L.&lt;/strong&gt;, &lt;em&gt;Software Developer, System Administrator&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;2007 – 2009 &lt;strong&gt;Tedial S.L.&lt;/strong&gt;, &lt;em&gt;Backend Developer, System Administrator&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Server-side media storage technologies.&lt;/li&gt;
