@@ -5,7 +5,11 @@ wget https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md -O
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project. 
+cd public
+git checkout master
+cd ..
+
+# Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
