@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>General on Cristóbal Carnero Liñán </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://xn--cristbal-z3a.com/categories/general/index.xml/</link>
+    <title>General on Cristóbal Carnero Liñán</title>
+    <link>http://xn--cristbal-z3a.com/categories/general/</link>
+    <description>Recent content in General on Cristóbal Carnero Liñán</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Mon, 02 Feb 2015 00:00:00 UTC</updated>
+    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://xn--cristbal-z3a.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Generate Curriculum Vitae in multiple formats</title>
-      <link>http://xn--cristbal-z3a.com/post/resume-generator/</link>
-      <pubDate>Mon, 02 Feb 2015 00:00:00 UTC</pubDate>
+      <link>http://xn--cristbal-z3a.com/post/resume%20generator/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/resume-generator/</guid>
+      <guid>http://xn--cristbal-z3a.com/post/resume%20generator/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;/images/post-cv-generator.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/post-cv-generator.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Motivation&lt;/h2&gt;
+&lt;h2 id=&#34;motivation:b32205567f44381055b4b787b8a801db&#34;&gt;Motivation&lt;/h2&gt;
 
-&lt;p&gt;In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the &lt;a href=&#34;http://www.ctan.org/pkg/moderncv&#34;&gt;moderncv&lt;/a&gt; class for LaTeX. You can see it &lt;a href=&#34;https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf&#34;&gt;here&lt;/a&gt;. The problem was when someone asked me the &lt;strong&gt;Word&lt;/strong&gt; version of it (don&amp;rsquo;t ask me why). As I wanted to have the &lt;a href=&#34;/cv&#34;&gt;curriculum vitae&lt;/a&gt; in this site updated too I look for a way to have my resume in multiple formats.&lt;/p&gt;
+&lt;p&gt;In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the &lt;a href=&#34;http://www.ctan.org/pkg/moderncv&#34;&gt;moderncv&lt;/a&gt; class for LaTeX. You can see it &lt;a href=&#34;https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf&#34;&gt;here&lt;/a&gt;. The problem was when someone asked me the &lt;strong&gt;Word&lt;/strong&gt; version of it (don&amp;rsquo;t ask me why). As I wanted to have the &lt;a href=&#34;http://xn--cristbal-z3a.com/cv&#34;&gt;curriculum vitae&lt;/a&gt; in this site updated too I look for a way to have my resume in multiple formats.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;My take&lt;/h2&gt;
+&lt;h2 id=&#34;my-take:b32205567f44381055b4b787b8a801db&#34;&gt;My take&lt;/h2&gt;
 
 &lt;p&gt;What was the solution? Well, maybe it&amp;rsquo;s overkill but, anyway&amp;hellip; This is the &lt;a href=&#34;https://github.com/cristobalcl/resume&#34;&gt;source repository&lt;/a&gt; of the scripts that generate my curriculum in several formats. Firstly there is a file called &lt;code&gt;resume.yaml&lt;/code&gt; that have all the information about my CV in &lt;a href=&#34;http://www.yaml.org/&#34;&gt;YAML&lt;/a&gt;. Then there is a directory called &lt;code&gt;templates&lt;/code&gt;. The templates are &lt;a href=&#34;http://www.makotemplates.org/&#34;&gt;Mako&lt;/a&gt; files.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
 
 &lt;p&gt;This system works, but it has some problems. For example, there is no easy way to add formatting in the resume, so I added a little hack: you can use &lt;code&gt;&amp;lt;*&lt;/code&gt; and &lt;code&gt;*&amp;gt;&lt;/code&gt; tags to emphasize. Another problem is that in Pandoc&amp;rsquo;s Markdown you can not specify image size or alignment.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;h2 id=&#34;conclusions:b32205567f44381055b4b787b8a801db&#34;&gt;Conclusions&lt;/h2&gt;
 
 &lt;p&gt;So that&amp;rsquo;s it. You can &lt;a href=&#34;https://github.com/cristobalcl/resume/fork&#34;&gt;fork&lt;/a&gt; it and write your own curriculum in the &lt;code&gt;resume.yaml&lt;/code&gt;. Also you can add more templates. A HTML template would be very easy to do, for example, but also you can use Pandoc to generate it from the Markdown version. Something I&amp;rsquo;ve been considering is a way to export or import the LinkeId information using its API&amp;hellip; Another possibility is to translate automatically to several languages. I leave this to you ;)&lt;/p&gt;
 </description>
@@ -42,13 +42,13 @@
     
     <item>
       <title>Hello World!</title>
-      <link>http://xn--cristbal-z3a.com/post/hello-world/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 UTC</pubDate>
+      <link>http://xn--cristbal-z3a.com/post/hello%20world/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/hello-world/</guid>
+      <guid>http://xn--cristbal-z3a.com/post/hello%20world/</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Welcome&lt;/h2&gt;
+&lt;h2 id=&#34;welcome:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;Welcome&lt;/h2&gt;
 
 &lt;p&gt;Hi, my name is &lt;strong&gt;Cristóbal&lt;/strong&gt; and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.&lt;/p&gt;
 </description>

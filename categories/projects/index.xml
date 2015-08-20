@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Projects on Cristóbal Carnero Liñán </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://xn--cristbal-z3a.com/categories/projects/index.xml/</link>
+    <title>Projects on Cristóbal Carnero Liñán</title>
+    <link>http://xn--cristbal-z3a.com/categories/projects/</link>
+    <description>Recent content in Projects on Cristóbal Carnero Liñán</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Tue, 24 Feb 2015 00:00:00 UTC</updated>
+    <lastBuildDate>Tue, 24 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://xn--cristbal-z3a.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Presentación de RegaloInteligente.com</title>
       <link>http://xn--cristbal-z3a.com/post/regalointeligente/</link>
-      <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/post/regalointeligente/</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Introducción&lt;/h2&gt;
+&lt;h2 id=&#34;introducción:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Introducción&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
  Después de mucho tiempo de trabajo, es un placer presentar mi último proyecto: &lt;a href=&#34;http://regalointeligente.com&#34;&gt;RegaloInteligente.com&lt;/a&gt;. Esta idea nació hace ya casi diez años, aunque por aquel entonces era algo totalmente distinto. En aquel momento se quedó en el tintero porque no había una forma clara de monetizar la idea. En 2013 retomé el concepto pero lo transformé en lo que terminó siendo: un buscador de regalos. Pero no di con la tecla de cómo hacer la clasificación inteligente de los regalos, y entre la avalancha de otros proyectos quedó aparcado. Hasta el mes pasado&amp;hellip; Decidí abrazar la filosofía del &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup&#34;&gt;Lean Startup&lt;/a&gt;, pero sobre todo la de &lt;a href=&#34;https://gettingreal.37signals.com/&#34;&gt;Getting Real&lt;/a&gt;, libro que, irónicamente, estoy leyendo justo después de haber lanzado el proyecto. Ante todo, la idea era sacar un &lt;em&gt;producto mínimo viable&lt;/em&gt; en el menor tiempo posible, para poder así probar la idea.&lt;/p&gt;
 
 &lt;p&gt;Y estamos hablando de días. En menos de dos semanas lancé la primera versión de la &lt;a href=&#34;http://regalointeligente.com&#34;&gt;web&lt;/a&gt;, aunque es cierto que ya tenía bastante código escrito, y que el grueso del trabajo del servidor lo realiza mi framework &lt;strong&gt;OrigamiPress&lt;/strong&gt;, que algún día liberaré. La &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app&#34;&gt;aplicación móvil&lt;/a&gt; para Android se desarrolló en 5 días. El primero de los cuales lo dediqué a investigar tecnologías como &lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt;, frameworks Javascript y estilos para móviles, etc. Finalmente decidí irme a lo nativo —aunque eso significara no tener la aplicación iOS al mismo tiempo—, y para ser mi primera aplicación para Android estoy muy contento con el resultado. La aplicación no solamente funciona bien, sino que el interfaz no es de los más feos. Es verdad que no tiene muchas &lt;em&gt;features&lt;/em&gt;, pero eso es parte de la filosofía &lt;em&gt;Getting Real&lt;/em&gt; —de la que ya hablaré en el futuro—.&lt;/p&gt;
@@ -52,16 +52,16 @@
 
 &lt;p&gt;Todavía es muy pronto para saber cómo va a funcionar esta estrategia de marketing ya que ni siquiera está anunciado aún, pero será un buen &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup#Build-Measure-Learn&#34;&gt;pivote&lt;/a&gt; de partida para experimentar.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Tecnología&lt;/h2&gt;
+&lt;h2 id=&#34;tecnología:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Tecnología&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/regalointeligente-1.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-1.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
  En el apartado técnico no me he desviado mucho de lo que solía utilizar: Python + Pyramid, junto a mi framework OrigamiPress, que a su vez usa MongoDB, Memcached, Elasticsearch, Mako, etc. Por supuesto, uso extensivo de las APIs de Amazon y Twitter. Y en el lado del cliente HTML5, CSS3, Bootstrap, Javascript, Ajax,&amp;hellip; Algo que no me esperaba en este punto era la falta de compatibilidad entre los distintos navegadores que existe todavía: tras lanzar la web descubrí que no funcionaba bien en Safari y Explorer, algo que fue difícil de depurar —sin querer salirme de Linux—.&lt;/p&gt;
 
 &lt;p&gt;Otra historia muy diferente ha sido la aplicación para Android. Ha sido &lt;em&gt;&amp;ldquo;sencilla&amp;rdquo;&lt;/em&gt; de hacer, ya que el grueso del trabajo lo hace el servidor a través de servicios web. Pero como siempre, la parte más tediosa fue el interfaz de usuario. En primer lugar porque salirse del aspecto visual estándar de Android da mucho trabajo, y en segundo porque faltan algunos componentes como el selector de rango dual. Otra de las dificultades ha sido el entorno. Acostumbrado a hacerlo todo en el ligero &lt;strong&gt;Vim&lt;/strong&gt;, tener que lidiar con un monstruo pesado como &lt;a href=&#34;http://developer.android.com/tools/studio/&#34;&gt;Android Studio&lt;/a&gt; ha sido muy duro. Y además el lenguaje &lt;strong&gt;Java&lt;/strong&gt;, que me hizo echar de menos &lt;strong&gt;Python&lt;/strong&gt; durante esos 5 días. Cuando te falta algo en Python la solución suele ser un &lt;code&gt;pip install&lt;/code&gt;. En Java/Android la solución es más bien &lt;em&gt;&amp;ldquo;copia estos ficheros dentro de tu proyecto, modifícalos y cruza los dedos&amp;rdquo;&lt;/em&gt;, aunque algunas veces tienes la suerte de encontrar un paquete que puedes añadir con Gradle.&lt;/p&gt;
 
 &lt;p&gt;Otra novedad ha sido el VPS. Esta vez, y tras mucho investigar y estudiar comparativas, he decidido apostar por &lt;a href=&#34;www.digitalocean.com/?refcode=36e391fa75d0&#34;&gt;DigitalOcean&lt;/a&gt;, y la verdad es que estoy muy contento con la elección. No solo porque funciona todo genial, con un interfaz limpio y funcional, sino por la extensa y clarísima documentación que proveen para todos los aspectos del despliegue. Y el dominio, como siempre, en &lt;a href=&#34;http://www.namecheap.com/?aff=61066&#34;&gt;NameCheap&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Futuro&lt;/h2&gt;
+&lt;h2 id=&#34;futuro:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Futuro&lt;/h2&gt;
 
 &lt;p&gt;Todavía es muy pronto para valorar el éxito del proyecto. La web se anunció hace poco más de una semana y la aplicación móvil se anunció hoy mismo. Los perfiles sociales están empezando tímidamente a funcionar, y aún queda por desvelar el funcionamiento del bot de Twitter. Los primeros comentarios acerca del proyecto son positivos en cuanto a la utilidad del mismo. Las únicas críticas recibidas han sido con respecto a la cantidad de productos. En el momento de escribir este artículo había 544 productos en la página, que en principio no está mal, pero aún así es fácil de aumentar esa cifra, ya que el funcionamiento es semi-automático: la mayoría de los productos se buscan y clasifican automáticamente cada semana, aunque yo tengo la opción de añadir a mano algunos productos &lt;em&gt;destacados&lt;/em&gt;. De todas formas, prefiero que haya pocos productos pero relevantes —de nuevo, me remito a las ideas del Getting Real—.&lt;/p&gt;
 
