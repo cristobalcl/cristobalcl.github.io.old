@@ -18,7 +18,7 @@ indexes:
     tag: "tags"
 
 params:
-    tagline: "Server-side DevOps."
+    tagline: "Full Stack Developer and DevOps."
     description: "Cristóbal personal web."
     keywords: "cristobal,carnero,linan,cv,curriculum,resume,web,personal,home,website,blog"
 
@@ -29,5 +29,6 @@ params:
     googleplus: "https://www.google.com/+Crist%C3%B3balCarneroLi%C3%B1%C3%A1n"
     email: "ccarnerolinan@gmail.com"
 
+    googleAnalyticsTrackingID: "UA-66537544-1"
     disqusShortname: "cristbal"
 ...
