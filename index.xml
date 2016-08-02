@@ -6,13 +6,13 @@
     <description>Recent content on Cristóbal Carnero Liñán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://xn--cristbal-z3a.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Curriculum Vitae</title>
       <link>http://xn--cristbal-z3a.com/cv/</link>
-      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/cv/</guid>
       <description>
@@ -31,11 +31,11 @@
 &lt;li&gt;&lt;strong&gt;Date of birth:&lt;/strong&gt; 12th February, 1981&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;summary:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Summary&lt;/h1&gt;
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
 
 &lt;p&gt;More than 10 years of professional experience in the software industry and university research groups. Expertise in develop, deploy and manage server-side software and web services.&lt;/p&gt;
 
-&lt;h1 id=&#34;education:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Education&lt;/h1&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;2009 – 2011 &lt;strong&gt;Master in Software Engineer and Artificial Intelligence&lt;/strong&gt;, Universidad de Málaga.&lt;/li&gt;
@@ -47,13 +47,25 @@
 &lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;experience:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Experience&lt;/h1&gt;
+&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Since July 2015 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Full Stack Developer&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Since March 2016 &lt;strong&gt;Mukabe&lt;/strong&gt;, &lt;em&gt;Founder &amp;amp; CTO&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Energy Sequence&lt;/em&gt;: web platform for automatic &lt;em&gt;Virtual Energetic Audit&lt;/em&gt;, &lt;em&gt;Energetic Benchmarking&lt;/em&gt;, and more.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mukabe&lt;/em&gt; is the new way of navigate through information, the new social and online organization, and the new way to get visibility for you, your projects or your company.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since February 2016 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Software Engineering Manager&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web development &amp;amp; DevOps.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;July 2015 – February 2016 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Full Stack Developer&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web platform for automatic &lt;em&gt;Virtual Energetic Audit&lt;/em&gt;, &lt;em&gt;Energetic Benchmarking&lt;/em&gt;, and more.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Since 2015 &lt;strong&gt;RegaloInteligente&lt;/strong&gt;, &lt;em&gt;Founder&lt;/em&gt;.&lt;/p&gt;
@@ -108,7 +120,7 @@
 &lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;master-thesis:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Master Thesis&lt;/h1&gt;
+&lt;h1 id=&#34;master-thesis&#34;&gt;Master Thesis&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
     &lt;em&gt;“Shape recognition through new convexity descriptors”&lt;/em&gt;&lt;/p&gt;
@@ -119,7 +131,7 @@
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
     For this project several new convexity descriptors were devised. Then they were tested in the recognition of the &lt;em&gt;American Sign Language&lt;/em&gt; used by deaf people.&lt;/p&gt;
 
-&lt;h1 id=&#34;bachelor-thesis:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Bachelor Thesis&lt;/h1&gt;
+&lt;h1 id=&#34;bachelor-thesis&#34;&gt;Bachelor Thesis&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;
     &lt;em&gt;“A Video Surveillance System for Fall Detection”&lt;/em&gt;&lt;/p&gt;
@@ -130,7 +142,7 @@
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
     Development of a video surveillance software to automatically detect the fall of persons.&lt;/p&gt;
 
-&lt;h1 id=&#34;free-software-projects:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Free Software Projects&lt;/h1&gt;
+&lt;h1 id=&#34;free-software-projects&#34;&gt;Free Software Projects&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Since 2014 &lt;strong&gt;WooDPD&lt;/strong&gt;, &lt;a href=&#34;http://woodpdplugin.com&#34;&gt;http://woodpdplugin.com&lt;/a&gt;.&lt;/p&gt;
@@ -152,16 +164,16 @@
 &lt;/blockquote&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;languages:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Languages&lt;/h1&gt;
+&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Spanish&lt;/strong&gt; Native&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;English&lt;/strong&gt; Fluent&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;qualities:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Qualities&lt;/h1&gt;
+&lt;h1 id=&#34;qualities&#34;&gt;Qualities&lt;/h1&gt;
 
-&lt;h2 id=&#34;computer-skills:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Computer skills&lt;/h2&gt;
+&lt;h2 id=&#34;computer-skills&#34;&gt;Computer skills&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;
     C, C++, Python, Bash, JavaScript, HTML5, CSS3, Java, JSON, SQL, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&amp;amp;T).&lt;/p&gt;
@@ -176,10 +188,10 @@
     Vim, GDB, Make, CMake, Android Studio, Eclipse, KDevelop, Visual Studio. Mercurial, Git, Subversion, CVS.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt;
-    Pyramid, Node.js, Express.js, Bootstrap, Mako, Celery, Cornice, Scrapy, WordPress, OpenCV, OpenGL, OAuth.&lt;/p&gt;
+    Django, Pyramid, Node.js, Express.js, Bootstrap, Mako, Celery, Cornice, Scrapy, WordPress, OpenCV, OpenGL, OAuth.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Deployment:&lt;/strong&gt;
-    VirtualEnv, Supervisor, Fabric, Upstart, Docker/Dokku, Vagrant.&lt;/p&gt;
+    Ansible, Fabric, VirtualEnv, Supervisor, Upstart, Docker/Dokku, Vagrant.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt;
     RESTful Web Services, Ajax.&lt;/p&gt;
@@ -187,15 +199,15 @@
 &lt;p&gt;&lt;strong&gt;APIs:&lt;/strong&gt;
     PayPal, Google Wallet, Amazon, Facebook, Twitter, Braintree, Telegram.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;SO:&lt;/strong&gt;
-    GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Android, Windows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
+    GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Android. AWS, DigitalOcean.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Others:&lt;/strong&gt;
     LaTeX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash.&lt;/p&gt;
 
-&lt;h2 id=&#34;personal-skills:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Personal skills&lt;/h2&gt;
+&lt;h2 id=&#34;personal-skills&#34;&gt;Personal skills&lt;/h2&gt;
 
-&lt;h3 id=&#34;engineering:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Engineering:&lt;/h3&gt;
+&lt;h3 id=&#34;engineering&#34;&gt;Engineering:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ability to find creative solutions.&lt;/li&gt;
@@ -205,7 +217,7 @@
 &lt;li&gt;Eager to learn and develop new skills.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;others:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Others:&lt;/h3&gt;
+&lt;h3 id=&#34;others&#34;&gt;Others:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ability to work without direct supervision.&lt;/li&gt;
@@ -214,7 +226,7 @@
 &lt;li&gt;Professional experience in public speaking.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;interests:7e6115c4d209379befeb3847e8c4905b&#34;&gt;Interests&lt;/h1&gt;
+&lt;h1 id=&#34;interests&#34;&gt;Interests&lt;/h1&gt;
 
 &lt;p&gt;GNU/Linux, web servers, web spiders, image processing, computer vision, computer graphics, artificial intelligence, compilers development, security.&lt;/p&gt;
 </description>
@@ -228,10 +240,9 @@
       <guid>http://xn--cristbal-z3a.com/post/regalointeligente/</guid>
       <description>
 
-&lt;h2 id=&#34;introducción:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Introducción&lt;/h2&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
- Después de mucho tiempo de trabajo, es un placer presentar mi último proyecto: &lt;a href=&#34;http://regalointeligente.com&#34;&gt;RegaloInteligente.com&lt;/a&gt;. Esta idea nació hace ya casi diez años, aunque por aquel entonces era algo totalmente distinto. En aquel momento se quedó en el tintero porque no había una forma clara de monetizar la idea. En 2013 retomé el concepto pero lo transformé en lo que terminó siendo: un buscador de regalos. Pero no di con la tecla de cómo hacer la clasificación inteligente de los regalos, y entre la avalancha de otros proyectos quedó aparcado. Hasta el mes pasado&amp;hellip; Decidí abrazar la filosofía del &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup&#34;&gt;Lean Startup&lt;/a&gt;, pero sobre todo la de &lt;a href=&#34;https://gettingreal.37signals.com/&#34;&gt;Getting Real&lt;/a&gt;, libro que, irónicamente, estoy leyendo justo después de haber lanzado el proyecto. Ante todo, la idea era sacar un &lt;em&gt;producto mínimo viable&lt;/em&gt; en el menor tiempo posible, para poder así probar la idea.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt; Después de mucho tiempo de trabajo, es un placer presentar mi último proyecto: &lt;a href=&#34;http://regalointeligente.com&#34;&gt;RegaloInteligente.com&lt;/a&gt;. Esta idea nació hace ya casi diez años, aunque por aquel entonces era algo totalmente distinto. En aquel momento se quedó en el tintero porque no había una forma clara de monetizar la idea. En 2013 retomé el concepto pero lo transformé en lo que terminó siendo: un buscador de regalos. Pero no di con la tecla de cómo hacer la clasificación inteligente de los regalos, y entre la avalancha de otros proyectos quedó aparcado. Hasta el mes pasado&amp;hellip; Decidí abrazar la filosofía del &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup&#34;&gt;Lean Startup&lt;/a&gt;, pero sobre todo la de &lt;a href=&#34;https://gettingreal.37signals.com/&#34;&gt;Getting Real&lt;/a&gt;, libro que, irónicamente, estoy leyendo justo después de haber lanzado el proyecto. Ante todo, la idea era sacar un &lt;em&gt;producto mínimo viable&lt;/em&gt; en el menor tiempo posible, para poder así probar la idea.&lt;/p&gt;
 
 &lt;p&gt;Y estamos hablando de días. En menos de dos semanas lancé la primera versión de la &lt;a href=&#34;http://regalointeligente.com&#34;&gt;web&lt;/a&gt;, aunque es cierto que ya tenía bastante código escrito, y que el grueso del trabajo del servidor lo realiza mi framework &lt;strong&gt;OrigamiPress&lt;/strong&gt;, que algún día liberaré. La &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app&#34;&gt;aplicación móvil&lt;/a&gt; para Android se desarrolló en 5 días. El primero de los cuales lo dediqué a investigar tecnologías como &lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt;, frameworks Javascript y estilos para móviles, etc. Finalmente decidí irme a lo nativo —aunque eso significara no tener la aplicación iOS al mismo tiempo—, y para ser mi primera aplicación para Android estoy muy contento con el resultado. La aplicación no solamente funciona bien, sino que el interfaz no es de los más feos. Es verdad que no tiene muchas &lt;em&gt;features&lt;/em&gt;, pero eso es parte de la filosofía &lt;em&gt;Getting Real&lt;/em&gt; —de la que ya hablaré en el futuro—.&lt;/p&gt;
 
@@ -263,16 +274,15 @@
 
 &lt;p&gt;Todavía es muy pronto para saber cómo va a funcionar esta estrategia de marketing ya que ni siquiera está anunciado aún, pero será un buen &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup#Build-Measure-Learn&#34;&gt;pivote&lt;/a&gt; de partida para experimentar.&lt;/p&gt;
 
-&lt;h2 id=&#34;tecnología:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Tecnología&lt;/h2&gt;
+&lt;h2 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-1.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt;
- En el apartado técnico no me he desviado mucho de lo que solía utilizar: Python + Pyramid, junto a mi framework OrigamiPress, que a su vez usa MongoDB, Memcached, Elasticsearch, Mako, etc. Por supuesto, uso extensivo de las APIs de Amazon y Twitter. Y en el lado del cliente HTML5, CSS3, Bootstrap, Javascript, Ajax,&amp;hellip; Algo que no me esperaba en este punto era la falta de compatibilidad entre los distintos navegadores que existe todavía: tras lanzar la web descubrí que no funcionaba bien en Safari y Explorer, algo que fue difícil de depurar —sin querer salirme de Linux—.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-1.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt; En el apartado técnico no me he desviado mucho de lo que solía utilizar: Python + Pyramid, junto a mi framework OrigamiPress, que a su vez usa MongoDB, Memcached, Elasticsearch, Mako, etc. Por supuesto, uso extensivo de las APIs de Amazon y Twitter. Y en el lado del cliente HTML5, CSS3, Bootstrap, Javascript, Ajax,&amp;hellip; Algo que no me esperaba en este punto era la falta de compatibilidad entre los distintos navegadores que existe todavía: tras lanzar la web descubrí que no funcionaba bien en Safari y Explorer, algo que fue difícil de depurar —sin querer salirme de Linux—.&lt;/p&gt;
 
 &lt;p&gt;Otra historia muy diferente ha sido la aplicación para Android. Ha sido &lt;em&gt;&amp;ldquo;sencilla&amp;rdquo;&lt;/em&gt; de hacer, ya que el grueso del trabajo lo hace el servidor a través de servicios web. Pero como siempre, la parte más tediosa fue el interfaz de usuario. En primer lugar porque salirse del aspecto visual estándar de Android da mucho trabajo, y en segundo porque faltan algunos componentes como el selector de rango dual. Otra de las dificultades ha sido el entorno. Acostumbrado a hacerlo todo en el ligero &lt;strong&gt;Vim&lt;/strong&gt;, tener que lidiar con un monstruo pesado como &lt;a href=&#34;http://developer.android.com/tools/studio/&#34;&gt;Android Studio&lt;/a&gt; ha sido muy duro. Y además el lenguaje &lt;strong&gt;Java&lt;/strong&gt;, que me hizo echar de menos &lt;strong&gt;Python&lt;/strong&gt; durante esos 5 días. Cuando te falta algo en Python la solución suele ser un &lt;code&gt;pip install&lt;/code&gt;. En Java/Android la solución es más bien &lt;em&gt;&amp;ldquo;copia estos ficheros dentro de tu proyecto, modifícalos y cruza los dedos&amp;rdquo;&lt;/em&gt;, aunque algunas veces tienes la suerte de encontrar un paquete que puedes añadir con Gradle.&lt;/p&gt;
 
 &lt;p&gt;Otra novedad ha sido el VPS. Esta vez, y tras mucho investigar y estudiar comparativas, he decidido apostar por &lt;a href=&#34;www.digitalocean.com/?refcode=36e391fa75d0&#34;&gt;DigitalOcean&lt;/a&gt;, y la verdad es que estoy muy contento con la elección. No solo porque funciona todo genial, con un interfaz limpio y funcional, sino por la extensa y clarísima documentación que proveen para todos los aspectos del despliegue. Y el dominio, como siempre, en &lt;a href=&#34;http://www.namecheap.com/?aff=61066&#34;&gt;NameCheap&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;futuro:4cb4801e17ca221ceb60a1be6fa107ca&#34;&gt;Futuro&lt;/h2&gt;
+&lt;h2 id=&#34;futuro&#34;&gt;Futuro&lt;/h2&gt;
 
 &lt;p&gt;Todavía es muy pronto para valorar el éxito del proyecto. La web se anunció hace poco más de una semana y la aplicación móvil se anunció hoy mismo. Los perfiles sociales están empezando tímidamente a funcionar, y aún queda por desvelar el funcionamiento del bot de Twitter. Los primeros comentarios acerca del proyecto son positivos en cuanto a la utilidad del mismo. Las únicas críticas recibidas han sido con respecto a la cantidad de productos. En el momento de escribir este artículo había 544 productos en la página, que en principio no está mal, pero aún así es fácil de aumentar esa cifra, ya que el funcionamiento es semi-automático: la mayoría de los productos se buscan y clasifican automáticamente cada semana, aunque yo tengo la opción de añadir a mano algunos productos &lt;em&gt;destacados&lt;/em&gt;. De todas formas, prefiero que haya pocos productos pero relevantes —de nuevo, me remito a las ideas del Getting Real—.&lt;/p&gt;
 
@@ -292,14 +302,13 @@
       <guid>http://xn--cristbal-z3a.com/post/resume%20generator/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/post-cv-generator.png&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/post-cv-generator.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;motivation:b32205567f44381055b4b787b8a801db&#34;&gt;Motivation&lt;/h2&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
 
 &lt;p&gt;In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the &lt;a href=&#34;http://www.ctan.org/pkg/moderncv&#34;&gt;moderncv&lt;/a&gt; class for LaTeX. You can see it &lt;a href=&#34;https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf&#34;&gt;here&lt;/a&gt;. The problem was when someone asked me the &lt;strong&gt;Word&lt;/strong&gt; version of it (don&amp;rsquo;t ask me why). As I wanted to have the &lt;a href=&#34;http://xn--cristbal-z3a.com/cv&#34;&gt;curriculum vitae&lt;/a&gt; in this site updated too I look for a way to have my resume in multiple formats.&lt;/p&gt;
 
-&lt;h2 id=&#34;my-take:b32205567f44381055b4b787b8a801db&#34;&gt;My take&lt;/h2&gt;
+&lt;h2 id=&#34;my-take&#34;&gt;My take&lt;/h2&gt;
 
 &lt;p&gt;What was the solution? Well, maybe it&amp;rsquo;s overkill but, anyway&amp;hellip; This is the &lt;a href=&#34;https://github.com/cristobalcl/resume&#34;&gt;source repository&lt;/a&gt; of the scripts that generate my curriculum in several formats. Firstly there is a file called &lt;code&gt;resume.yaml&lt;/code&gt; that have all the information about my CV in &lt;a href=&#34;http://www.yaml.org/&#34;&gt;YAML&lt;/a&gt;. Then there is a directory called &lt;code&gt;templates&lt;/code&gt;. The templates are &lt;a href=&#34;http://www.makotemplates.org/&#34;&gt;Mako&lt;/a&gt; files.&lt;/p&gt;
 
@@ -309,7 +318,7 @@
 
 &lt;p&gt;This system works, but it has some problems. For example, there is no easy way to add formatting in the resume, so I added a little hack: you can use &lt;code&gt;&amp;lt;*&lt;/code&gt; and &lt;code&gt;*&amp;gt;&lt;/code&gt; tags to emphasize. Another problem is that in Pandoc&amp;rsquo;s Markdown you can not specify image size or alignment.&lt;/p&gt;
 
-&lt;h2 id=&#34;conclusions:b32205567f44381055b4b787b8a801db&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
 
 &lt;p&gt;So that&amp;rsquo;s it. You can &lt;a href=&#34;https://github.com/cristobalcl/resume/fork&#34;&gt;fork&lt;/a&gt; it and write your own curriculum in the &lt;code&gt;resume.yaml&lt;/code&gt;. Also you can add more templates. A HTML template would be very easy to do, for example, but also you can use Pandoc to generate it from the Markdown version. Something I&amp;rsquo;ve been considering is a way to export or import the LinkeId information using its API&amp;hellip; Another possibility is to translate automatically to several languages. I leave this to you ;)&lt;/p&gt;
 </description>
@@ -323,7 +332,7 @@
       <guid>http://xn--cristbal-z3a.com/post/hello%20world/</guid>
       <description>
 
-&lt;h2 id=&#34;welcome:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;Welcome&lt;/h2&gt;
+&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
 
 &lt;p&gt;Hi, my name is &lt;strong&gt;Cristóbal&lt;/strong&gt; and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.&lt;/p&gt;
 </description>
@@ -335,8 +344,7 @@
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/cristobal.jpg&#34; alt=&#34;Cristóbal&#34; title=&#34;Cristóbal&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;When I was 13 years old I found in my house a little manual about programming in &lt;strong&gt;GW-BASIC&lt;/strong&gt;. Making something with it was a nightmare but also a lot of fun. Just after I used &lt;strong&gt;Turbo Basic&lt;/strong&gt;, &lt;strong&gt;QBasic&lt;/strong&gt;, &lt;strong&gt;QuickBASIC&lt;/strong&gt;, &lt;strong&gt;Visual Basic&lt;/strong&gt;,&amp;hellip; I usually did some programs with beautiful GUIs and databases. But then I discover &lt;strong&gt;Turbo Pascal&lt;/strong&gt;. Things got serious with it, and I started doing graphical things.&lt;/p&gt;
 
@@ -358,10 +366,9 @@
       <guid>http://xn--cristbal-z3a.com/projects/</guid>
       <description>
 
-&lt;h2 id=&#34;regalointeligente:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;RegaloInteligente&lt;/h2&gt;
+&lt;h2 id=&#34;regalointeligente&#34;&gt;RegaloInteligente&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://regalointeligente.com&#34;&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente&#34; title=&#34;RegaloInteligente&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://regalointeligente.com&#34;&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente&#34; title=&#34;RegaloInteligente&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Gift search engine.&lt;/p&gt;
 
@@ -370,24 +377,23 @@
 &lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app&#34;&gt;Android app&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;free-software-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Free software projects&lt;/h1&gt;
+&lt;h1 id=&#34;free-software-projects&#34;&gt;Free software projects&lt;/h1&gt;
 
-&lt;h2 id=&#34;woodpd:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;WooDPD&lt;/h2&gt;
+&lt;h2 id=&#34;woodpd&#34;&gt;WooDPD&lt;/h2&gt;
 
 &lt;p&gt;WordPress Plugin to integrate DPD purchases in WooCommerce.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://woodpdplugin.com&#34;&gt;http://woodpdplugin.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;origamipress:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;OrigamiPress&lt;/h2&gt;
+&lt;h2 id=&#34;origamipress&#34;&gt;OrigamiPress&lt;/h2&gt;
 
 &lt;p&gt;Blog tool, publishing platform, and CMS developed in Python.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://origamipress.com&#34;&gt;http://origamipress.com&lt;/a&gt; (yet to be published)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://cvblob.googlecode.com&#34;&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/cvblob.png&#34; alt=&#34;cvBlob&#34; title=&#34;cvBlob&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cvblob.googlecode.com&#34;&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/cvblob.png&#34; alt=&#34;cvBlob&#34; title=&#34;cvBlob&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;cvblob:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;cvBlob&lt;/h2&gt;
+&lt;h2 id=&#34;cvblob&#34;&gt;cvBlob&lt;/h2&gt;
 
 &lt;p&gt;Blob library for OpenCV, widely used in computer vision and robotic research.&lt;/p&gt;
 

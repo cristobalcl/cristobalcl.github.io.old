@@ -59,14 +59,13 @@
 
 		
 
-<p><img src="http://xn--cristbal-z3a.com/images/post-cv-generator.png" alt="" />
-</p>
+<p><img src="http://xn--cristbal-z3a.com/images/post-cv-generator.png" alt="" /></p>
 
-<h2 id="motivation:b32205567f44381055b4b787b8a801db">Motivation</h2>
+<h2 id="motivation">Motivation</h2>
 
 <p>In the last week I&rsquo;ve been updating my CV and finally I managed to build a nice one using the <a href="http://www.ctan.org/pkg/moderncv">moderncv</a> class for LaTeX. You can see it <a href="https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf">here</a>. The problem was when someone asked me the <strong>Word</strong> version of it (don&rsquo;t ask me why). As I wanted to have the <a href="http://xn--cristbal-z3a.com/cv">curriculum vitae</a> in this site updated too I look for a way to have my resume in multiple formats.</p>
 
-<h2 id="my-take:b32205567f44381055b4b787b8a801db">My take</h2>
+<h2 id="my-take">My take</h2>
 
 <p>What was the solution? Well, maybe it&rsquo;s overkill but, anyway&hellip; This is the <a href="https://github.com/cristobalcl/resume">source repository</a> of the scripts that generate my curriculum in several formats. Firstly there is a file called <code>resume.yaml</code> that have all the information about my CV in <a href="http://www.yaml.org/">YAML</a>. Then there is a directory called <code>templates</code>. The templates are <a href="http://www.makotemplates.org/">Mako</a> files.</p>
 
@@ -76,7 +75,7 @@
 
 <p>This system works, but it has some problems. For example, there is no easy way to add formatting in the resume, so I added a little hack: you can use <code>&lt;*</code> and <code>*&gt;</code> tags to emphasize. Another problem is that in Pandoc&rsquo;s Markdown you can not specify image size or alignment.</p>
 
-<h2 id="conclusions:b32205567f44381055b4b787b8a801db">Conclusions</h2>
+<h2 id="conclusions">Conclusions</h2>
 
 <p>So that&rsquo;s it. You can <a href="https://github.com/cristobalcl/resume/fork">fork</a> it and write your own curriculum in the <code>resume.yaml</code>. Also you can add more templates. A HTML template would be very easy to do, for example, but also you can use Pandoc to generate it from the Markdown version. Something I&rsquo;ve been considering is a way to export or import the LinkeId information using its API&hellip; Another possibility is to translate automatically to several languages. I leave this to you ;)</p>
 
