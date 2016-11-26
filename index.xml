@@ -6,13 +6,13 @@
     <description>Recent content on Cristóbal Carnero Liñán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://xn--cristbal-z3a.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Curriculum Vitae</title>
       <link>http://xn--cristbal-z3a.com/cv/</link>
-      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/cv/</guid>
       <description>
@@ -50,45 +50,21 @@
 &lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Since March 2016 &lt;strong&gt;Mukabe&lt;/strong&gt;, &lt;em&gt;Founder &amp;amp; CTO&lt;/em&gt;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Since July 2015 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Software Engineering Manager&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mukabe&lt;/em&gt; is the new way of navigate through information, the new social and online organization, and the new way to get visibility for you, your projects or your company.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Since February 2016 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Software Engineering Manager&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Web development &amp;amp; DevOps.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;July 2015 – February 2016 &lt;strong&gt;VATIA Energía&lt;/strong&gt;, &lt;em&gt;Full Stack Developer&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Web platform for automatic &lt;em&gt;Virtual Energetic Audit&lt;/em&gt;, &lt;em&gt;Energetic Benchmarking&lt;/em&gt;, and more.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Since 2015 &lt;strong&gt;RegaloInteligente&lt;/strong&gt;, &lt;em&gt;Founder&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Search engine of gifts with parameters like gender and age, and filter for prices.&lt;/li&gt;
-&lt;li&gt;Web and Android applications (available in Google Play).&lt;/li&gt;
-&lt;li&gt;Twitter bot with auto posting and automatic reply.&lt;/li&gt;
+&lt;li&gt;Web platform for automatic &lt;em&gt;Virtual Energetic Audit&lt;/em&gt;, &lt;em&gt;Energetic Benchmarking&lt;/em&gt;, monitoring,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Fullstack development, DevOps &amp;amp; data analysis.&lt;/li&gt;
+&lt;li&gt;Technologies: Node.js, Python, Celery, Django, Pandas, Matplotlib, MongoDB, Ansible, Fabric.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2014 – 2015 &lt;strong&gt;Axafone&lt;/strong&gt;, &lt;em&gt;Consultant&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Web technology consultancy.&lt;/li&gt;
-&lt;li&gt;Customized web crawlers.&lt;/li&gt;
+&lt;li&gt;Customized web crawlers (Scrapy).&lt;/li&gt;
 &lt;li&gt;Speaker.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;2013 – 2014 &lt;strong&gt;CursosDeSEO&lt;/strong&gt;, &lt;em&gt;Founder&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Search engine of courses from different platforms and formats.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2011 – 2013 &lt;strong&gt;Melomics Media&lt;/strong&gt;, &lt;em&gt;Backend Developer, DevOps&lt;/em&gt;.&lt;/p&gt;
 
@@ -96,13 +72,15 @@
 &lt;li&gt;Server side development and deployment of a massive online music repository, with search, streaming, purchases and public API.&lt;/li&gt;
 &lt;li&gt;Administration of cluster of Debian servers.&lt;/li&gt;
 &lt;li&gt;Development and deployment of automatic video edition software with additional post-processing capabilities as chroma key, effects, titles, subtitles, publishing,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Technologies: Python, web.py, MongoDB, ElasticSearch, Memcached. APIs: Paypal, Google Wallet, Facebook, Google+.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2009 – 2011 &lt;strong&gt;Universidad de Málaga&lt;/strong&gt;, &lt;em&gt;Researcher&lt;/em&gt;.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Computer vision research in the department of &lt;em&gt;“Computational Intelligence and Image Analysis”&lt;/em&gt;, managed by José Muñoz Perez and Enrique Dominguez Merino.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer vision research in the department of &lt;em&gt;“Computational Intelligence and Image Analysis”&lt;/em&gt;, managed by José Muñoz Perez and Enrique Dominguez Merino.&lt;/li&gt;
+&lt;li&gt;Technologies: Python, C++, OpenCV, cvBlob, Matlab, Octave.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2007 – 2009 &lt;strong&gt;Tedial S.L.&lt;/strong&gt;, &lt;em&gt;Backend Developer, System Administrator&lt;/em&gt;.&lt;/p&gt;
 
@@ -111,13 +89,15 @@
 &lt;li&gt;Authentication, authorization, and access control.&lt;/li&gt;
 &lt;li&gt;Management of surveillance cameras.&lt;/li&gt;
 &lt;li&gt;Deployment of software and administration of several SuSE Enterprise Server installations.&lt;/li&gt;
+&lt;li&gt;Technologies: C++, Python, SuSE Enterprise Server, Oracle, LDAP, SOAP.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;2005 – 2006 &lt;strong&gt;Novasoft&lt;/strong&gt;, &lt;em&gt;Software and Web Developer&lt;/em&gt;.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Educational video games.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Educational video games.&lt;/li&gt;
+&lt;li&gt;Technologies: Flash, ActionScript, HTML, Javascript.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;master-thesis&#34;&gt;Master Thesis&lt;/h1&gt;
@@ -141,6 +121,32 @@
 
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;
     Development of a video surveillance software to automatically detect the fall of persons.&lt;/p&gt;
+
+&lt;h1 id=&#34;personal-projects&#34;&gt;Personal Projects&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Since 2016 &lt;strong&gt;Mukabe&lt;/strong&gt;, &lt;a href=&#34;https://mukabe.com&#34;&gt;https://mukabe.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mukabe&lt;/em&gt; is the new way of navigate through information, the new social and online organization, and the new way to get visibility for you, your projects or your company.&lt;/li&gt;
+&lt;li&gt;Technologies: Python, Django, Celery, Redis, ElasticSearch, Ansible, Fabric, AWS, Social APIs (Instagram, Facebook, Google+,&amp;hellip;).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since 2015 &lt;strong&gt;RegaloInteligente&lt;/strong&gt;, &lt;a href=&#34;http://regalointeligente.com&#34;&gt;http://regalointeligente.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Search engine of gifts with parameters like gender and age, and filter for prices.&lt;/li&gt;
+&lt;li&gt;Web and Android applications (available in Google Play). Twitter bot with auto posting and automatic reply. Telegram bot.&lt;/li&gt;
+&lt;li&gt;Technologies: Python, Pyramid, MongoDB, ElasticSearch, Amazon API, Twitter API, Telegram Bot API.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013 – 2014 &lt;strong&gt;CursosDeSEO&lt;/strong&gt;, &lt;a href=&#34;http://cursosdeseo.net&#34;&gt;http://cursosdeseo.net&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Search engine of courses from different platforms and formats.&lt;/li&gt;
+&lt;li&gt;Technologies: Python, Pyramid, MongoDB, ElasticSearch, Scrapy.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&#34;free-software-projects&#34;&gt;Free Software Projects&lt;/h1&gt;
 
@@ -176,10 +182,10 @@
 &lt;h2 id=&#34;computer-skills&#34;&gt;Computer skills&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;
-    C, C++, Python, Bash, JavaScript, HTML5, CSS3, Java, JSON, SQL, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&amp;amp;T).&lt;/p&gt;
+    Python, Bash, JavaScript, HTML5, CSS3, C, C++, Java, SQL, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&amp;amp;T).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Databases:&lt;/strong&gt;
-    Oracle, MySQL, MongoDB, Redis, Memcached, ElasticSearch.&lt;/p&gt;
+    MongoDB, ElasticSearch, Redis, Memcached, PostgreSQL, Oracle, MySQL.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Web servers:&lt;/strong&gt;
     Apache, Nginx.&lt;/p&gt;
@@ -191,16 +197,19 @@
     Django, Pyramid, Node.js, Express.js, Bootstrap, Mako, Celery, Cornice, Scrapy, WordPress, OpenCV, OpenGL, OAuth.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Deployment:&lt;/strong&gt;
-    Ansible, Fabric, VirtualEnv, Supervisor, Upstart, Docker/Dokku, Vagrant.&lt;/p&gt;
+    Ansible, Fabric, VirtualEnv, Supervisor, Upstart, Docker/Dokku, Vagrant, AWS API.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Analysis:&lt;/strong&gt;
+    Pandas, NumPy, SciPy, Matplotlib, MapReduce.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt;
     RESTful Web Services, Ajax.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;APIs:&lt;/strong&gt;
-    PayPal, Google Wallet, Amazon, Facebook, Twitter, Braintree, Telegram.&lt;/p&gt;
+    PayPal, Google Wallet, Amazon, Facebook, Twitter, Instagram, Braintree, Telegram.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;
-    GNU/Linux (SuSE Enterprise Server, Debian, Ubuntu), Android. AWS, DigitalOcean.&lt;/p&gt;
+    GNU/Linux (Ubuntu, Debian, SuSE Enterprise Server), Android. AWS, DigitalOcean.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Others:&lt;/strong&gt;
     LaTeX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash.&lt;/p&gt;
