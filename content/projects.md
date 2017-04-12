@@ -5,6 +5,17 @@ date: "2015-01-30"
 slug: "projects"
 ---
 
+Mukabe
+------
+
+![Mukabe](/images/mukabe_logotype.png)
+
+Mukabe is the new way of navigate through information, the new social and online organization, and the new way to get visibility for you, your projects or your company.
+
+[https://mukabe.com](https://mukabe.com)
+
+Read more in this blog post: [Introduction to Mukabe](/post/mukabe_en/).
+
 RegaloInteligente
 -----------------
 
@@ -32,10 +43,10 @@ Blog tool, publishing platform, and CMS developed in Python.
 
 [http://origamipress.com](http://origamipress.com) (yet to be published)
 
-[![cvBlob](/images/cvblob.png "cvBlob")](http://cvblob.googlecode.com)
-
 cvBlob
 ------
+
+[![cvBlob](/images/cvblob.png "cvBlob")](http://cvblob.googlecode.com)
 
 Blob library for OpenCV, widely used in computer vision and robotic research.
 
