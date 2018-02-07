@@ -19,7 +19,6 @@ header,section,article,aside,footer
 h1, h2, h3
 {
 	font-weight: 700;
-	clear: right;
 }
 
 a

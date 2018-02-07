@@ -1,155 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Cristóbal Carnero Liñán</title>
-    <link>http://xn--cristbal-z3a.com/post/index.xml</link>
-    <description>Recent content in Post-rsses on Cristóbal Carnero Liñán</description>
+    <title>Posts on Cristóbal Carnero Liñán</title>
+    <link>http://xn--cristbal-z3a.com/post/</link>
+    <description>Recent content in Posts on Cristóbal Carnero Liñán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://xn--cristbal-z3a.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>Introducing Mukabe</title>
-      <link>http://xn--cristbal-z3a.com/post/mukabe_en/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://xn--cristbal-z3a.com/post/mukabe_en/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://xn--cristbal-z3a.com/post/mukabe/&#34;&gt;Lee la versión en castellano&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;introducing&#34;&gt;Introducing&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/mukabe_logotype.png&#34; alt=&#34;Mukabe&#34; /&gt;Those who knows me realize that I am always working in a lot of side projects, about computing or other crazy things. And &lt;a href=&#34;https://mukabe.com&#34;&gt;Mukabe&lt;/a&gt; matches both groups. But this is one of those crazy things that makes more sense the more you think about it.&lt;/p&gt;
-
-&lt;p&gt;The idea born in a dream. Next morning I begin to make sense of it, and some days later I started coding. Some time after I met &lt;a href=&#34;https://mukabe.com/@antonio&#34;&gt;Antonio Sánchez Pineda&lt;/a&gt;, who become interested and joined me to give some help.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-mukabe&#34;&gt;What is Mukabe?&lt;/h2&gt;
-
-&lt;p&gt;You can get a quick idea viewing this short tutorial:&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JiTX9z2zqNw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;When you enter in Mukabe you see a infinite plane, where you can navigate as you are used to do in any online map: drag to move around, zoom in and zoom out,&amp;hellip; This plane is divided in squares of the same size that we call &lt;em&gt;patches&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you signup you get a patch free for life. Here you can upload a photo, connect it to Instagram, edit,&amp;hellip; And also you can move to another place in Mukabe. For instance, you can move next to a friend&amp;rsquo;s patch, or near other patches with a topic that interests you.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t have enought with a patch, you can get more patches inviting other people. When someone that you invited signup, both will get new free patches. You can move each of your patches to different zones of Mukabe, or put them togethers to build a bigger place.&lt;/p&gt;
-
-&lt;p&gt;To distinguish your patches in the distant —and maybe attract other users— you can change the &lt;em&gt;zoom color&lt;/em&gt; of your patches. The zoom color is the color that your patch will fade when you zoom out. If you have many patches together you can use the zoom colors to draw a design, a symbol or logo that will be seen in the Mukabe map.&lt;/p&gt;
-
-&lt;h2 id=&#34;but-what-is-mukabe-for&#34;&gt;But, what is Mukabe for?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/mukabe_shot.png&#34; alt=&#34;Captura de Mukabe&#34; /&gt;Mukabe helps you to connect to the world through Internet. Your patch is a showcase for you to put whatever you want to give to the world, what you do, your business, your artworks, curriculum, photographs, memes, quotes,&amp;hellip; What you need to express! Maybe you want to have a patch for your &lt;a href=&#34;https://mukabe.com/10819&#34;&gt;cat&lt;/a&gt;, and have another with your last photo in &lt;a href=&#34;https://mukabe.com/10406&#34;&gt;Instagram&lt;/a&gt;. Or you can have simply a patch to put the links to your social profiles, and this way you&amp;rsquo;ll have an online card with your networks centralised in one place.&lt;/p&gt;
-
-&lt;p&gt;Mukabe is the new way of social online organization. Neighborhoods of patches with common topics will arise. As well as relationships between companies and users. And much more.&lt;/p&gt;
-
-&lt;p&gt;Also, you will discover content very different from those that others search engines and social networks offers or recommends to you, because in Mukabe the users are who organize themselfes. You are who arrange your own content. And everything coexist in the same page.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-about-the-future&#34;&gt;What about the future?&lt;/h2&gt;
-
-&lt;p&gt;We keep working to make Mukabe easier to use, improving the interface, adding functionality, etc. Of course we are going to add connections to other social networks like Facebook or Twitter.&lt;/p&gt;
-
-&lt;p&gt;We are going to offer to programmers an API so anyone can add new features, automatic content,&amp;hellip; So that companies can also make their products or offers availables more easily.&lt;/p&gt;
-
-&lt;p&gt;And last, we are working in a system so your can arrange yourself the content in Mukabe that you like. We want that Mukabe will be your new door to Internet. This way you could see in a glance the movie listings in your town, or the covers of the newspapers you were interested in the same place.&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-
-&lt;p&gt;From the day I thought about Mukabe, I belive it could be very useful and fun. Business may get visibility without annoying ads. Users will be able to organise themselfes in a democratic way and have as much impact as big companies, to support campaigns, promote social movements, memes,&amp;hellip; Also, we will make easy in the future that anyone put together the content that he likes in a personalized way.&lt;/p&gt;
-
-&lt;p&gt;If you want to be part of this, and be one of the first to get a place in Mukabe, &lt;a href=&#34;https://mukabe.com/account/signup&#34;&gt;signup&lt;/a&gt; right now.&lt;/p&gt;
-
-&lt;p&gt;I also recommend you to visit this places in Mukabe:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://mukabe.com/#16/-0.1332/-0.1414&#34;&gt;My personal place&lt;/a&gt;. Some interesting patches of mine:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mukabe.com/10406&#34;&gt;My last Instagram&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mukabe.com/10819&#34;&gt;My cat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://mukabe.com/@buma&#34;&gt;Bosque Urbano de Málaga&lt;/a&gt;: citizen movement to build an urban forest in Málaga.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;¡See you in &lt;a href=&#34;https://mukabe.com&#34;&gt;Mukabe.com&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;PS: if you belong to any non-profit organization and you want a place in Mukabe contact with me: &lt;a href=&#34;mailto:cristobal@mukabe.com&#34;&gt;cristobal@mukabe.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://xn--cristbal-z3a.com/post/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Presentación de Mukabe</title>
-      <link>http://xn--cristbal-z3a.com/post/mukabe/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://xn--cristbal-z3a.com/post/mukabe/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://xn--cristbal-z3a.com/post/mukabe_en/&#34;&gt;Read the English version&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/mukabe_logotype.png&#34; alt=&#34;Mukabe&#34; /&gt;Los que me conocen saben que siempre ando con un montón de proyectos paralelos, ya sean de informática o cualquier otra locura que se me ocurra. Y &lt;a href=&#34;https://mukabe.com&#34;&gt;Mukabe&lt;/a&gt; es una de esas locuras. Pero es de esas locuras que tienen más sentido cuanto más lo piensas.&lt;/p&gt;
-
-&lt;p&gt;La idea surgió en un sueño. A la mañana siguiente empecé a darle sentido a lo que había soñado, y unos días después empecé a programar. Algún tiempo después conocí a &lt;a href=&#34;https://mukabe.com/@antonio&#34;&gt;Antonio Sánchez Pineda&lt;/a&gt;, que se interesó y se unió a mí para echarme una mano.&lt;/p&gt;
-
-&lt;h2 id=&#34;qué-es-mukabe&#34;&gt;¿Qué es Mukabe?&lt;/h2&gt;
-
-&lt;p&gt;En el siguiente tutorial resumido puedes hacerte una idea rápida:&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JiTX9z2zqNw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Cuando entras a Mukabe lo que ves es un plano infinito, por el que puedes navegar como ya estás acostumbrado a hacerlo en cualquier mapa online: arrastrar y soltar para moverte, zoom adelante y atrás, etc. Este plano está dividido en cuadrados del mismo tamaño que llamamos &lt;em&gt;parches&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Cuando te registras se te asigna un parche libre que será tuyo gratuitamente de por vida. En este parche puedes subir una foto, conectarlo con Instagram, editarlo,&amp;hellip; Y también puedes moverlo a otro lugar en Mukabe. Por ejemplo puedes mudarte junto al parche de un amigo, o cerca de otros parches con temáticas que te interesen.&lt;/p&gt;
-
-&lt;p&gt;Si con un parche no tienes suficiente, puedes conseguir más parches invitando a otras personas. Cuando alguien al que hayas invitado se registre, ambos obtendréis un nuevo parche gratuito. Cada uno de tus parches puedes moverlo a una zona de Mukabe diferente, o bien colocarlos todos juntos para crear un espacio propio mayor.&lt;/p&gt;
-
-&lt;p&gt;Para distinguir tus parches en la distancia —y para atraer la atención de otro usuarios— puedes cambiar el &lt;em&gt;color de zoom&lt;/em&gt; de tus parches. El color de zoom es el color en el que se verá tu parche desde la distancia. Si tienes muchos parches juntos puedes usar sus colores de zoom para dibujar diseños como símbolos o logotipos que se podrán ver desde lejos en Mukabe.&lt;/p&gt;
-
-&lt;h2 id=&#34;pero-para-qué-sirve-mukabe&#34;&gt;Pero, ¿para qué sirve Mukabe?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/mukabe_shot.png&#34; alt=&#34;Captura de Mukabe&#34; /&gt;Mukabe te ayuda a conectar con el mundo a través de Internet. Tu parche es un escaparate para que muestres cualquier cosa que quieras transmitir al mundo, lo que haces, tu empresa, tus trabajos artísticos, tu currículum, fotos, memes, frases,&amp;hellip; ¡Lo que necesites expresar! Quizás quieras dedicar uno de tus parches a tu &lt;a href=&#34;https://mukabe.com/10819&#34;&gt;gato&lt;/a&gt;, y en otro mostrar tu última foto subida a &lt;a href=&#34;https://mukabe.com/10406&#34;&gt;Instagram&lt;/a&gt;. O simplemente puedes usar un parche para poner enlaces a todas tus redes sociales, y así tener una tarjeta de presentación online con todas tus redes centralizadas en un mismo lugar.&lt;/p&gt;
-
-&lt;p&gt;Mukabe es una nueva forma de organización social online. Se pueden formar &lt;em&gt;vecindarios&lt;/em&gt; de parches dedicados a temáticas comunes. Se podrán generar relaciones entre empresas y usuarios. Y muchas cosas más.&lt;/p&gt;
-
-&lt;p&gt;También podrás descubrir contenido muy distinto al que los buscadores de Internet y otras redes sociales te ofrecen o te recomiendan, porque son los propios usuarios los que se autoorganizan. Sois vosotros los que ordenáis vuestro propio contenido. Y todo coexiste en la misma página.&lt;/p&gt;
-
-&lt;h2 id=&#34;y-en-el-futuro&#34;&gt;¿Y en el futuro?&lt;/h2&gt;
-
-&lt;p&gt;Seguimos trabajando para facilitar el uso de Mukabe, arreglando el interfaz, añadiendo funcionalidad, etc. Por supuesto vamos a añadir integraciones con otras redes sociales como Facebook o Twitter.&lt;/p&gt;
-
-&lt;p&gt;Vamos a poner a disposición de los programadores una API para que cualquiera pueda añadir nuevas características, parches con contenido automático,&amp;hellip; Para que así también puedan las empresas hacer accesibles sus productos u ofertas más ágilmente.&lt;/p&gt;
-
-&lt;p&gt;Y por último, estamos trabajando en un sistema para que tú mismo puedas ordenar como quieras el contenido de Mukabe que te interese. Queremos que Mukabe sea tu nuevo portal de acceso a Internet. Por ejemplo, podrás ver de un vistazo todas las carteleras de los cines de tu zona, o las portadas de los periódicos que te interesen en una misma página,&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;para-finalizar&#34;&gt;Para finalizar&lt;/h2&gt;
-
-&lt;p&gt;Desde que lo ideé siempre pensé que Mukabe podía ser muy útil, además de divertido. Las empresas podrán conseguir visibilidad sin publicidad intrusiva. Los usuarios se podrán autoorganizar de una forma democrática y tener tanta repercusión como las grandes empresas, para apoyar campañas, promocionar movilizaciones sociales, memes,&amp;hellip; Además, en el futuro facilitaremos que cada uno organice el contenido que le interese de forma personalizada.&lt;/p&gt;
-
-&lt;p&gt;Si quieres formar parte de esto, y ser de los primeros en conseguir sitio en Mukabe, &lt;a href=&#34;https://mukabe.com/account/signup&#34;&gt;regístrate&lt;/a&gt; cuanto antes.&lt;/p&gt;
-
-&lt;p&gt;También te recomiendo que visites estos lugares en Mukabe:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://mukabe.com/#16/-0.1332/-0.1414&#34;&gt;Mi espacio personal&lt;/a&gt;. Algunos de mis parches más interesantes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mukabe.com/10406&#34;&gt;Mi último Instagram&lt;/a&gt;: actualizado con mi Instagram.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mukabe.com/10819&#34;&gt;Mi gato&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://mukabe.com/@buma&#34;&gt;Bosque Urbano de Málaga&lt;/a&gt;: movimiento ciudadano para crear un bosque urbano en Málaga.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;¡Nos vemos en &lt;a href=&#34;https://mukabe.com&#34;&gt;Mukabe.com&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;PD: si perteneces a alguna organización sin ánimo de lucro y quieres tener un espacio en Mukabe ponte en contacto conmigo: &lt;a href=&#34;mailto:cristobal@mukabe.com&#34;&gt;cristobal@mukabe.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Presentación de RegaloInteligente.com</title>
@@ -157,104 +17,25 @@
       <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://xn--cristbal-z3a.com/post/regalointeligente/</guid>
-      <description>
-
-&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-logo.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt; Después de mucho tiempo de trabajo, es un placer presentar mi último proyecto: &lt;a href=&#34;http://regalointeligente.com&#34;&gt;RegaloInteligente.com&lt;/a&gt;. Esta idea nació hace ya casi diez años, aunque por aquel entonces era algo totalmente distinto. En aquel momento se quedó en el tintero porque no había una forma clara de monetizar la idea. En 2013 retomé el concepto pero lo transformé en lo que terminó siendo: un buscador de regalos. Pero no di con la tecla de cómo hacer la clasificación inteligente de los regalos, y entre la avalancha de otros proyectos quedó aparcado. Hasta el mes pasado&amp;hellip; Decidí abrazar la filosofía del &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup&#34;&gt;Lean Startup&lt;/a&gt;, pero sobre todo la de &lt;a href=&#34;https://gettingreal.37signals.com/&#34;&gt;Getting Real&lt;/a&gt;, libro que, irónicamente, estoy leyendo justo después de haber lanzado el proyecto. Ante todo, la idea era sacar un &lt;em&gt;producto mínimo viable&lt;/em&gt; en el menor tiempo posible, para poder así probar la idea.&lt;/p&gt;
-
-&lt;p&gt;Y estamos hablando de días. En menos de dos semanas lancé la primera versión de la &lt;a href=&#34;http://regalointeligente.com&#34;&gt;web&lt;/a&gt;, aunque es cierto que ya tenía bastante código escrito, y que el grueso del trabajo del servidor lo realiza mi framework &lt;strong&gt;OrigamiPress&lt;/strong&gt;, que algún día liberaré. La &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app&#34;&gt;aplicación móvil&lt;/a&gt; para Android se desarrolló en 5 días. El primero de los cuales lo dediqué a investigar tecnologías como &lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt;, frameworks Javascript y estilos para móviles, etc. Finalmente decidí irme a lo nativo —aunque eso significara no tener la aplicación iOS al mismo tiempo—, y para ser mi primera aplicación para Android estoy muy contento con el resultado. La aplicación no solamente funciona bien, sino que el interfaz no es de los más feos. Es verdad que no tiene muchas &lt;em&gt;features&lt;/em&gt;, pero eso es parte de la filosofía &lt;em&gt;Getting Real&lt;/em&gt; —de la que ya hablaré en el futuro—.&lt;/p&gt;
-
-&lt;p&gt;Paralelamente a la web y a la app móvil desarrollé también una parte fundamental de la estrategia del negocio: un bot para Twitter. Cuando empecé el proyecto tenía una idea clara: tenía que ser un negocio &lt;em&gt;semi-pasivo&lt;/em&gt;. ¿Qué significa esto? Pues que debía minimizar el tiempo que tuviera que dedicarle a administrarlo. Esto no solo implicaba que la base de datos de productos, la clasificación y la búsqueda, debía funcionar sin supervisión. Además el marketing debía funcionar también de forma autónoma. Para esto tenía varias alternativas, pero todas pasaban por la creación de gran cantidad de contenidos, en forma de artículos de blog, por ejemplo, para mejorar el SEO. Esta no es una idea que descarte todavía, pero viendo el estado actual del mercado, y sobre todo la experiencia en proyectos anteriores, preferí intentar otra cosa. Y como mi mejor arma era el software, y la red social más fácil de automatizar es Twitter, la opción estaba clara. Tenía que crear una estrategia eficaz de &lt;em&gt;growth hacking&lt;/em&gt; a través de esta plataforma.&lt;/p&gt;
-
-&lt;p&gt;Para ello desarrollé un bot que realiza dos tareas. En primer lugar, periódicamente a lo largo del día publica en Twitter mensajes de varios tipos, como por ejemplo:&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;es&#34;&gt;&lt;p&gt;Esta semana hemos añadido 198 productos a nuestra lista de &lt;a href=&#34;https://twitter.com/hashtag/regalos?src=hash&#34;&gt;#regalos&lt;/a&gt;.&lt;/p&gt;&amp;mdash; RegaloInteligente (@regalointeligen) &lt;a href=&#34;https://twitter.com/regalointeligen/status/570206518835961856&#34;&gt;febrero 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;O bien:&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;es&#34;&gt;&lt;p&gt;¿Buscas un &lt;a href=&#34;https://twitter.com/hashtag/regalo?src=hash&#34;&gt;#regalo&lt;/a&gt; para tu novio? Encuentra aquí los mejores: &lt;a href=&#34;http://t.co/1mW5QNhIHL&#34;&gt;http://t.co/1mW5QNhIHL&lt;/a&gt;&lt;/p&gt;&amp;mdash; RegaloInteligente (@regalointeligen) &lt;a href=&#34;https://twitter.com/regalointeligen/status/570297113139154944&#34;&gt;febrero 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Pero en segundo lugar, y para que la repercusión pudiera funcionar de forma viral, el bot es capaz de dar sugerencias cuando le preguntan en forma de menciones:&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;es&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/cristobal_psi&#34;&gt;@cristobal_psi&lt;/a&gt; Creo que esto le encantará: &lt;a href=&#34;http://t.co/kA3vNkLyPQ&#34;&gt;http://t.co/kA3vNkLyPQ&lt;/a&gt; ;) &lt;a href=&#34;https://twitter.com/hashtag/regaloencontrado?src=hash&#34;&gt;#regaloencontrado&lt;/a&gt;&lt;/p&gt;&amp;mdash; RegaloInteligente (@regalointeligen) &lt;a href=&#34;https://twitter.com/regalointeligen/status/567273693987221504&#34;&gt;febrero 16, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Para preguntarle sólo hay que mencionar a &lt;a href=&#34;https://twitter.com/regalointeligen&#34;&gt;@regalointeligen&lt;/a&gt; y añadir el hasttag &lt;code&gt;#buscoregalo&lt;/code&gt;. El bot puede contestar a mensajes tan dispares como:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;«@regalointeligen #buscoregalo para mi novia.»&lt;/p&gt;
-
-&lt;p&gt;«Hola @regalointeligen yo #buscoregalo para mi hijo de 10 años.»&lt;/p&gt;
-
-&lt;p&gt;«Querido @regalointeligen #buscoregalo para mi madre. Gracias.»&lt;/p&gt;
-
-&lt;p&gt;«@regalointeligen #buscoregalo para mi hermanito de #7.»&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Todavía es muy pronto para saber cómo va a funcionar esta estrategia de marketing ya que ni siquiera está anunciado aún, pero será un buen &lt;a href=&#34;http://en.wikipedia.org/wiki/Lean_startup#Build-Measure-Learn&#34;&gt;pivote&lt;/a&gt; de partida para experimentar.&lt;/p&gt;
-
-&lt;h2 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/regalointeligente-1.png&#34; alt=&#34;RegaloInteligente.com&#34; /&gt; En el apartado técnico no me he desviado mucho de lo que solía utilizar: Python + Pyramid, junto a mi framework OrigamiPress, que a su vez usa MongoDB, Memcached, Elasticsearch, Mako, etc. Por supuesto, uso extensivo de las APIs de Amazon y Twitter. Y en el lado del cliente HTML5, CSS3, Bootstrap, Javascript, Ajax,&amp;hellip; Algo que no me esperaba en este punto era la falta de compatibilidad entre los distintos navegadores que existe todavía: tras lanzar la web descubrí que no funcionaba bien en Safari y Explorer, algo que fue difícil de depurar —sin querer salirme de Linux—.&lt;/p&gt;
-
-&lt;p&gt;Otra historia muy diferente ha sido la aplicación para Android. Ha sido &lt;em&gt;&amp;ldquo;sencilla&amp;rdquo;&lt;/em&gt; de hacer, ya que el grueso del trabajo lo hace el servidor a través de servicios web. Pero como siempre, la parte más tediosa fue el interfaz de usuario. En primer lugar porque salirse del aspecto visual estándar de Android da mucho trabajo, y en segundo porque faltan algunos componentes como el selector de rango dual. Otra de las dificultades ha sido el entorno. Acostumbrado a hacerlo todo en el ligero &lt;strong&gt;Vim&lt;/strong&gt;, tener que lidiar con un monstruo pesado como &lt;a href=&#34;http://developer.android.com/tools/studio/&#34;&gt;Android Studio&lt;/a&gt; ha sido muy duro. Y además el lenguaje &lt;strong&gt;Java&lt;/strong&gt;, que me hizo echar de menos &lt;strong&gt;Python&lt;/strong&gt; durante esos 5 días. Cuando te falta algo en Python la solución suele ser un &lt;code&gt;pip install&lt;/code&gt;. En Java/Android la solución es más bien &lt;em&gt;&amp;ldquo;copia estos ficheros dentro de tu proyecto, modifícalos y cruza los dedos&amp;rdquo;&lt;/em&gt;, aunque algunas veces tienes la suerte de encontrar un paquete que puedes añadir con Gradle.&lt;/p&gt;
-
-&lt;p&gt;Otra novedad ha sido el VPS. Esta vez, y tras mucho investigar y estudiar comparativas, he decidido apostar por &lt;a href=&#34;www.digitalocean.com/?refcode=36e391fa75d0&#34;&gt;DigitalOcean&lt;/a&gt;, y la verdad es que estoy muy contento con la elección. No solo porque funciona todo genial, con un interfaz limpio y funcional, sino por la extensa y clarísima documentación que proveen para todos los aspectos del despliegue. Y el dominio, como siempre, en &lt;a href=&#34;http://www.namecheap.com/?aff=61066&#34;&gt;NameCheap&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;futuro&#34;&gt;Futuro&lt;/h2&gt;
-
-&lt;p&gt;Todavía es muy pronto para valorar el éxito del proyecto. La web se anunció hace poco más de una semana y la aplicación móvil se anunció hoy mismo. Los perfiles sociales están empezando tímidamente a funcionar, y aún queda por desvelar el funcionamiento del bot de Twitter. Los primeros comentarios acerca del proyecto son positivos en cuanto a la utilidad del mismo. Las únicas críticas recibidas han sido con respecto a la cantidad de productos. En el momento de escribir este artículo había 544 productos en la página, que en principio no está mal, pero aún así es fácil de aumentar esa cifra, ya que el funcionamiento es semi-automático: la mayoría de los productos se buscan y clasifican automáticamente cada semana, aunque yo tengo la opción de añadir a mano algunos productos &lt;em&gt;destacados&lt;/em&gt;. De todas formas, prefiero que haya pocos productos pero relevantes —de nuevo, me remito a las ideas del Getting Real—.&lt;/p&gt;
-
-&lt;p&gt;Ideas para nuevas funcionalidades hay para estar desarrollando durante meses, pero eso iría en contra de la filosofía adoptada. Los nuevos &lt;em&gt;features&lt;/em&gt; deberán pasar un buen tiempo de cuarentena antes de decidir si merecen ser implementados. Por ahora la tarea es evaluar el funcionamiento de la página, escuchar a los usuarios y medir el éxito o fracaso de la propuesta. Y según los resultados de este análisis, actuar.&lt;/p&gt;
-
-&lt;p&gt;Mientras tanto, te invito a probar &lt;a href=&#34;http://regalointeligente.com&#34;&gt;la web&lt;/a&gt; y la &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app&#34;&gt;app&lt;/a&gt;. ¡Todos los &lt;a href=&#34;mailto:ccarnerolinan@gmail.com&#34;&gt;comentarios&lt;/a&gt; son bienvenidos!&lt;/p&gt;
-
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-</description>
+      <description>Introducción Después de mucho tiempo de trabajo, es un placer presentar mi último proyecto: RegaloInteligente.com. Esta idea nació hace ya casi diez años, aunque por aquel entonces era algo totalmente distinto. En aquel momento se quedó en el tintero porque no había una forma clara de monetizar la idea. En 2013 retomé el concepto pero lo transformé en lo que terminó siendo: un buscador de regalos. Pero no di con la tecla de cómo hacer la clasificación inteligente de los regalos, y entre la avalancha de otros proyectos quedó aparcado.</description>
     </item>
     
     <item>
       <title>Generate Curriculum Vitae in multiple formats</title>
-      <link>http://xn--cristbal-z3a.com/post/resume%20generator/</link>
+      <link>http://xn--cristbal-z3a.com/post/resume-generator/</link>
       <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/resume%20generator/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://xn--cristbal-z3a.com/images/post-cv-generator.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
-
-&lt;p&gt;In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the &lt;a href=&#34;http://www.ctan.org/pkg/moderncv&#34;&gt;moderncv&lt;/a&gt; class for LaTeX. You can see it &lt;a href=&#34;https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf&#34;&gt;here&lt;/a&gt;. The problem was when someone asked me the &lt;strong&gt;Word&lt;/strong&gt; version of it (don&amp;rsquo;t ask me why). As I wanted to have the &lt;a href=&#34;http://xn--cristbal-z3a.com/cv&#34;&gt;curriculum vitae&lt;/a&gt; in this site updated too I look for a way to have my resume in multiple formats.&lt;/p&gt;
-
-&lt;h2 id=&#34;my-take&#34;&gt;My take&lt;/h2&gt;
-
-&lt;p&gt;What was the solution? Well, maybe it&amp;rsquo;s overkill but, anyway&amp;hellip; This is the &lt;a href=&#34;https://github.com/cristobalcl/resume&#34;&gt;source repository&lt;/a&gt; of the scripts that generate my curriculum in several formats. Firstly there is a file called &lt;code&gt;resume.yaml&lt;/code&gt; that have all the information about my CV in &lt;a href=&#34;http://www.yaml.org/&#34;&gt;YAML&lt;/a&gt;. Then there is a directory called &lt;code&gt;templates&lt;/code&gt;. The templates are &lt;a href=&#34;http://www.makotemplates.org/&#34;&gt;Mako&lt;/a&gt; files.&lt;/p&gt;
-
-&lt;p&gt;Two scripts are used to generate the files. One of them is a Python program that read the information from the YAML file and feeds the different templates to render versions of the CV in Markdown and LaTeX formats. The other one is a simple Bash script that deals with temporary directories, runs &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;Pandoc&lt;/a&gt; and &lt;code&gt;pdflatex&lt;/code&gt;. Also, it compress the final PDF file.&lt;/p&gt;
-
-&lt;p&gt;At this moment it generates the resume in PDF, docx, ODT and Markdown format for &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. In the &lt;code&gt;deploy.sh&lt;/code&gt; script of the repository of this web I&amp;rsquo;ve added a &lt;code&gt;wget&lt;/code&gt; command to get the last version of the CV every time the web is updated.&lt;/p&gt;
-
-&lt;p&gt;This system works, but it has some problems. For example, there is no easy way to add formatting in the resume, so I added a little hack: you can use &lt;code&gt;&amp;lt;*&lt;/code&gt; and &lt;code&gt;*&amp;gt;&lt;/code&gt; tags to emphasize. Another problem is that in Pandoc&amp;rsquo;s Markdown you can not specify image size or alignment.&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-
-&lt;p&gt;So that&amp;rsquo;s it. You can &lt;a href=&#34;https://github.com/cristobalcl/resume/fork&#34;&gt;fork&lt;/a&gt; it and write your own curriculum in the &lt;code&gt;resume.yaml&lt;/code&gt;. Also you can add more templates. A HTML template would be very easy to do, for example, but also you can use Pandoc to generate it from the Markdown version. Something I&amp;rsquo;ve been considering is a way to export or import the LinkeId information using its API&amp;hellip; Another possibility is to translate automatically to several languages. I leave this to you ;)&lt;/p&gt;
-</description>
+      <guid>http://xn--cristbal-z3a.com/post/resume-generator/</guid>
+      <description>Motivation In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the moderncv class for LaTeX. You can see it here. The problem was when someone asked me the Word version of it (don&amp;rsquo;t ask me why). As I wanted to have the curriculum vitae in this site updated too I look for a way to have my resume in multiple formats.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>http://xn--cristbal-z3a.com/post/hello%20world/</link>
+      <link>http://xn--cristbal-z3a.com/post/hello-world/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/hello%20world/</guid>
-      <description>
-
-&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
-
-&lt;p&gt;Hi, my name is &lt;strong&gt;Cristóbal&lt;/strong&gt; and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.&lt;/p&gt;
-</description>
+      <guid>http://xn--cristbal-z3a.com/post/hello-world/</guid>
+      <description>Welcome Hi, my name is Cristóbal and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.</description>
     </item>
     
   </channel>
