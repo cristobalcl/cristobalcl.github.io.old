@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cristóbal Carnero Liñán</title>
+    <link>http://xn--cristbal-z3a.com/categories/</link>
+    <description>Recent content in Categories on Cristóbal Carnero Liñán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://xn--cristbal-z3a.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General</title>
+      <link>http://xn--cristbal-z3a.com/categories/general/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://xn--cristbal-z3a.com/categories/projects/</link>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
