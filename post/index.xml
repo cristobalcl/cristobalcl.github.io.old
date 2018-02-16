@@ -6,10 +6,32 @@
     <description>Recent content in Posts on Cristóbal Carnero Liñán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://xn--cristbal-z3a.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Mukabe</title>
+      <link>http://xn--cristbal-z3a.com/post/mukabe_en/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/post/mukabe_en/</guid>
+      <description>Lee la versión en castellano
+Introducing Those who knows me realize that I am always working in a lot of side projects, about computing or other crazy things. And Mukabe matches both groups. But this is one of those crazy things that makes more sense the more you think about it.
+The idea born in a dream. Next morning I begin to make sense of it, and some days later I started coding.</description>
+    </item>
+    
+    <item>
+      <title>Presentación de Mukabe</title>
+      <link>http://xn--cristbal-z3a.com/post/mukabe/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://xn--cristbal-z3a.com/post/mukabe/</guid>
+      <description>Read the English version
+Introducción Los que me conocen saben que siempre ando con un montón de proyectos paralelos, ya sean de informática o cualquier otra locura que se me ocurra. Y Mukabe es una de esas locuras. Pero es de esas locuras que tienen más sentido cuanto más lo piensas.
+La idea surgió en un sueño. A la mañana siguiente empecé a darle sentido a lo que había soñado, y unos días después empecé a programar.</description>
+    </item>
     
     <item>
       <title>Presentación de RegaloInteligente.com</title>
