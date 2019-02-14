@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 description: "Curriculum Vitae"
-date: "2018-02-07"
+date: "2019-02-14"
 slug: "cv"
 ---
 
@@ -31,7 +31,18 @@ Education
 Experience
 ==========
 
-* Since 2017 **Cathedral Software**, *Senior Software Engineer*.
+* Since Nov 2018 **Organic Software**, *Senior Data Engineer*.
+
+	+ Cloud architecture solutions design & implementation.
+	+ Backend services development & deployment.
+	+ Technologies: Python, Django REST Framework, Kubernetes, AWS, Terraform, Pandas, Jupyter,...
+* Feb 2018 - Nov 2018 **Virtually Live**, *Senior Server Engineer*.
+
+	+ Cloud architecture design and implementation.
+	+ CI/CD automation.
+	+ Computer Vision using Deep Learning.
+	+ Technologies: Python, Kubernetes, AWS, Jenkins, Ansible, Terraform, Keras, Pandas, Jupyter,...
+* 2017-2018 **Cathedral Software**, *Senior Software Engineer*.
 
 	+ Big Data & Business Intelligence.
 	+ Technologies: Python, Django, Django REST framework, AWS, Docker, Airflow, Redshift, PostgreSQL, Angular 2, Selenium,...
@@ -134,28 +145,31 @@ Computer skills
 ---------------
 
 **Languages:**
-	Python, Bash, JavaScript, HTML5, CSS3, C, C++, Java, SQL, PHP, ASP, Delphi, Octave, Matlab, ActionScript, Assembly (Intel x86, AT&T).
+	Python, Bash, JavaScript, HTML5, CSS3, SQL.
 
 **Databases:**
-	MongoDB, ElasticSearch, Redis, Memcached, PostgreSQL, Redshift, Oracle, MySQL.
+	PostgreSQL, MongoDB, ElasticSearch, Redis, Memcached, Redshift.
 
 **Web servers:**
-	Apache, Nginx.
+	Nginx, Apache.
 
 **Environments:**
-	Vim, GDB, Make, CMake, Android Studio, Eclipse, KDevelop, Visual Studio. Mercurial, Git, Subversion, CVS.
+	Vim, Make, Android Studio, Eclipse. Git, Mercurial, Subversion.
 
 **Frameworks:**
-	Django, Django REST framework, Celery, Cornice, Scrapy, Airflow, Pyramid, Bootstrap, Mako, Node.js, Express.js, Angular 2, WordPress, OpenCV, OpenGL, OAuth.
+	Django, Django REST framework, Celery, Cornice, Scrapy, Airflow, Pyramid, Bootstrap, Mako, WordPress, OpenCV, OpenGL.
 
 **Testing:**
 	TDD, unittest, Selenium.
 
-**Deployment:**
-	Ansible, Fabric, VirtualEnv, Supervisor, Upstart, Docker, Dokku, Vagrant, AWS API.
+**Infrastructure:**
+	Kubernetes, AWS, DigitalOcean.
 
-**Data Analysis:**
-	Pandas, NumPy, SciPy, Matplotlib, MapReduce.
+**Deployment:**
+	Docker, Helm, Jenkins, Ansible, Terraform, Fabric, VirtualEnv, Supervisor, Upstart, Vagrant.
+
+**Data Science:**
+	Pandas, Keras, Jupyter.
 
 **Technologies:**
 	RESTful Web Services, Ajax.
@@ -164,10 +178,10 @@ Computer skills
 	PayPal, Google Wallet, Amazon, Facebook, Twitter, Instagram, Braintree, Telegram.
 
 **Platforms:**
-	GNU/Linux (Ubuntu, Debian, SuSE Enterprise Server, CentOS), Android. AWS, DigitalOcean.
+	GNU/Linux (Ubuntu, Debian, SuSE Enterprise Server, CentOS), Android.
 
 **Others:**
-	LaTeX, Doxygen, LibreOffice, Inkscape, Gimp, Krita, Photoshop, Flash.
+	LaTeX.
 
 Personal skills
 ---------------
