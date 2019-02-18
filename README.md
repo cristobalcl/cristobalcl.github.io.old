@@ -6,6 +6,7 @@
 ```bash
 git clone --recursive https://github.com/cristobalcl/cristobalcl-src.git
 cd cristobalcl-src
+git submodule foreach git checkout master
 git submodule foreach git pull origin master
 ```
 
