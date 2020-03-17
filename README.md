@@ -1,16 +1,20 @@
 # cristóbal.com
 [cristóbal.com](http://cristóbal.com) web source code.
 
-## Install & update submodules
+## Install
 
 ```bash
-git clone --recursive https://github.com/cristobalcl/cristobalcl-src.git
+git clone --recurse-submodules -j8 https://github.com/cristobalcl/cristobalcl-src.git
 cd cristobalcl-src
-git submodule foreach git checkout master
-git submodule foreach git pull origin master
 ```
 
 Install [Hugo](https://gohugo.io/).
+
+Mac:
+
+```
+brew install hugo
+```
 
 ## Update web
 

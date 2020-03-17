@@ -6,7 +6,7 @@ set -e
 # git submodule update --recursive --remote
 
 echo "Updating cv.md..."
-wget https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md -O content/cv.md
+curl -o content/cv.md https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
