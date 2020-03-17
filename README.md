@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-git clone --recurse-submodules -j8 https://github.com/cristobalcl/cristobalcl-src.git
+git clone --recurse-submodules -j8 git@github.com:cristobalcl/cristobalcl-src.git
 cd cristobalcl-src
 ```
 
