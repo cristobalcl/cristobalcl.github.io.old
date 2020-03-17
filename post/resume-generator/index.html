@@ -42,7 +42,7 @@
 				<ul id="social">
 					<li><a href="https://github.com/cristobalcl"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-bitbucket fa-stack-1x fa-inverse"></i></span></a></li>
 					<li><a href="http://es.linkedin.com/in/ccarnerolinan/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></span></a></li>
-					<li><a href="https://twitter.com/cristobal_mkb"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
+					<li><a href="https://twitter.com/cristobal_dev"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
 					<li><a href="https://www.google.com/&#43;Crist%C3%B3balCarneroLi%C3%B1%C3%A1n"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-google-plus fa-stack-1x fa-inverse"></i></span></a></li>
 					<li><a href="mailto:ccarnerolinan@gmail.com"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i></span></a></li>
 				</ul>
@@ -58,26 +58,15 @@
 			<span class="post-date">2015-02-02</span>
 		</header>
 
-		
-
-<p><img src="http://xn--cristbal-z3a.com/images/post-cv-generator.png" alt="" /></p>
-
+		<p><img src="http://xn--cristbal-z3a.com/images/post-cv-generator.png" alt=""></p>
 <h2 id="motivation">Motivation</h2>
-
 <p>In the last week I&rsquo;ve been updating my CV and finally I managed to build a nice one using the <a href="http://www.ctan.org/pkg/moderncv">moderncv</a> class for LaTeX. You can see it <a href="https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf">here</a>. The problem was when someone asked me the <strong>Word</strong> version of it (don&rsquo;t ask me why). As I wanted to have the <a href="http://xn--cristbal-z3a.com/cv">curriculum vitae</a> in this site updated too I look for a way to have my resume in multiple formats.</p>
-
 <h2 id="my-take">My take</h2>
-
 <p>What was the solution? Well, maybe it&rsquo;s overkill but, anyway&hellip; This is the <a href="https://github.com/cristobalcl/resume">source repository</a> of the scripts that generate my curriculum in several formats. Firstly there is a file called <code>resume.yaml</code> that have all the information about my CV in <a href="http://www.yaml.org/">YAML</a>. Then there is a directory called <code>templates</code>. The templates are <a href="http://www.makotemplates.org/">Mako</a> files.</p>
-
 <p>Two scripts are used to generate the files. One of them is a Python program that read the information from the YAML file and feeds the different templates to render versions of the CV in Markdown and LaTeX formats. The other one is a simple Bash script that deals with temporary directories, runs <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and <code>pdflatex</code>. Also, it compress the final PDF file.</p>
-
 <p>At this moment it generates the resume in PDF, docx, ODT and Markdown format for <a href="http://gohugo.io/">Hugo</a>. In the <code>deploy.sh</code> script of the repository of this web I&rsquo;ve added a <code>wget</code> command to get the last version of the CV every time the web is updated.</p>
-
 <p>This system works, but it has some problems. For example, there is no easy way to add formatting in the resume, so I added a little hack: you can use <code>&lt;*</code> and <code>*&gt;</code> tags to emphasize. Another problem is that in Pandoc&rsquo;s Markdown you can not specify image size or alignment.</p>
-
 <h2 id="conclusions">Conclusions</h2>
-
 <p>So that&rsquo;s it. You can <a href="https://github.com/cristobalcl/resume/fork">fork</a> it and write your own curriculum in the <code>resume.yaml</code>. Also you can add more templates. A HTML template would be very easy to do, for example, but also you can use Pandoc to generate it from the Markdown version. Something I&rsquo;ve been considering is a way to export or import the LinkeId information using its API&hellip; Another possibility is to translate automatically to several languages. I leave this to you ;)</p>
 
 

@@ -1,14 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://xn--cristbal-z3a.com/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xn--cristbal-z3a.com/cv/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xn--cristbal-z3a.com/categories/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://xn--cristbal-z3a.com/post/mukabe_en/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xn--cristbal-z3a.com/post/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,8 +33,18 @@
   </url>
   
   <url>
+    <loc>http://xn--cristbal-z3a.com/categories/projects/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xn--cristbal-z3a.com/post/regalointeligente/</loc>
     <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xn--cristbal-z3a.com/categories/general/</loc>
+    <lastmod>2015-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,37 +68,7 @@
   </url>
   
   <url>
-    <loc>http://xn--cristbal-z3a.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://xn--cristbal-z3a.com/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://xn--cristbal-z3a.com/categories/general/</loc>
-    <lastmod>2015-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://xn--cristbal-z3a.com/post/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://xn--cristbal-z3a.com/categories/projects/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://xn--cristbal-z3a.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
