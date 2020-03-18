@@ -4,20 +4,20 @@
 		<meta charset="utf-8">
 
 		<title>Generate Curriculum Vitae in multiple formats – Cristóbal Carnero Liñán</title>
-		<base href="http://xn--cristbal-z3a.com/">
-		<link rel="canonical" href="http://xn--cristbal-z3a.com/post/resume-generator/">
-		<link rel="shortcut icon" href="http://xn--cristbal-z3a.com/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="http://xn--cristbal-z3a.com/favicon.ico" type="image/x-icon">
+		<base href="https://cristobal.dev/">
+		<link rel="canonical" href="https://cristobal.dev/post/resume-generator/">
+		<link rel="shortcut icon" href="https://cristobal.dev/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="https://cristobal.dev/favicon.ico" type="image/x-icon">
 		<link href="" rel="alternate" type="application/rss+xml" title="Cristóbal Carnero Liñán" />
 
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Share:400,700&effect=3d">
 
-		<link rel="stylesheet" type="text/css" href="http://xn--cristbal-z3a.com/css/blanco.css">
+		<link rel="stylesheet" type="text/css" href="https://cristobal.dev/css/blanco.css">
 	</head>
 	<body>
 		<header class="header-panel">
-			<h1 id="title" class="font-effect-3d"><a href="http://xn--cristbal-z3a.com/">Cristóbal Carnero Liñán</a></h1>
+			<h1 id="title" class="font-effect-3d"><a href="https://cristobal.dev/">Cristóbal Carnero Liñán</a></h1>
 			<h2 id="tagline">
 				<span class="fa-stack fa-lg" style="font-size: 40%">
 					<i class="fa fa-square fa-stack-2x"></i>
@@ -30,11 +30,11 @@
 		<div id="navigation-panel">
 			<nav id="menu-panel">
 				<ul class="fa-ul">
-					<li><a href="http://xn--cristbal-z3a.com/"><i class="fa-li fa fa-home"></i> Home</a></li>
-					<li><a href="http://xn--cristbal-z3a.com/about"><i class="fa-li fa fa-user"></i>About</a></li>
+					<li><a href="https://cristobal.dev/"><i class="fa-li fa fa-home"></i> Home</a></li>
+					<li><a href="https://cristobal.dev/about"><i class="fa-li fa fa-user"></i>About</a></li>
 					
-					<li><a href="http://xn--cristbal-z3a.com/projects"><i class="fa-li fa fa-cube"></i>Projects</a></li>
-					<li><a href="http://xn--cristbal-z3a.com/cv"><i class="fa-li fa fa-file-text"></i>CV</a></li>
+					<li><a href="https://cristobal.dev/projects"><i class="fa-li fa fa-cube"></i>Projects</a></li>
+					<li><a href="https://cristobal.dev/cv"><i class="fa-li fa fa-file-text"></i>CV</a></li>
 				</ul>
 			</nav>
 
@@ -54,13 +54,13 @@
 <section id="main-panel">
 	<article class="post">
 		<header>
-			<h1 class="post-title"><a href="http://xn--cristbal-z3a.com/post/resume-generator/">Generate Curriculum Vitae in multiple formats</a></h1>
+			<h1 class="post-title"><a href="https://cristobal.dev/post/resume-generator/">Generate Curriculum Vitae in multiple formats</a></h1>
 			<span class="post-date">2015-02-02</span>
 		</header>
 
-		<p><img src="http://xn--cristbal-z3a.com/images/post-cv-generator.png" alt=""></p>
+		<p><img src="https://cristobal.dev/images/post-cv-generator.png" alt=""></p>
 <h2 id="motivation">Motivation</h2>
-<p>In the last week I&rsquo;ve been updating my CV and finally I managed to build a nice one using the <a href="http://www.ctan.org/pkg/moderncv">moderncv</a> class for LaTeX. You can see it <a href="https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf">here</a>. The problem was when someone asked me the <strong>Word</strong> version of it (don&rsquo;t ask me why). As I wanted to have the <a href="http://xn--cristbal-z3a.com/cv">curriculum vitae</a> in this site updated too I look for a way to have my resume in multiple formats.</p>
+<p>In the last week I&rsquo;ve been updating my CV and finally I managed to build a nice one using the <a href="http://www.ctan.org/pkg/moderncv">moderncv</a> class for LaTeX. You can see it <a href="https://github.com/cristobalcl/resume/raw/master/output/cristobal-resume.pdf">here</a>. The problem was when someone asked me the <strong>Word</strong> version of it (don&rsquo;t ask me why). As I wanted to have the <a href="https://cristobal.dev/cv">curriculum vitae</a> in this site updated too I look for a way to have my resume in multiple formats.</p>
 <h2 id="my-take">My take</h2>
 <p>What was the solution? Well, maybe it&rsquo;s overkill but, anyway&hellip; This is the <a href="https://github.com/cristobalcl/resume">source repository</a> of the scripts that generate my curriculum in several formats. Firstly there is a file called <code>resume.yaml</code> that have all the information about my CV in <a href="http://www.yaml.org/">YAML</a>. Then there is a directory called <code>templates</code>. The templates are <a href="http://www.makotemplates.org/">Mako</a> files.</p>
 <p>Two scripts are used to generate the files. One of them is a Python program that read the information from the YAML file and feeds the different templates to render versions of the CV in Markdown and LaTeX formats. The other one is a simple Bash script that deals with temporary directories, runs <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and <code>pdflatex</code>. Also, it compress the final PDF file.</p>

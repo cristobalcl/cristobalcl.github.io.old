@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>general on Cristóbal Carnero Liñán</title>
-    <link>http://xn--cristbal-z3a.com/categories/general/</link>
+    <link>https://cristobal.dev/categories/general/</link>
     <description>Recent content in general on Cristóbal Carnero Liñán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://xn--cristbal-z3a.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cristobal.dev/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Generate Curriculum Vitae in multiple formats</title>
-      <link>http://xn--cristbal-z3a.com/post/resume-generator/</link>
+      <link>https://cristobal.dev/post/resume-generator/</link>
       <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/resume-generator/</guid>
+      <guid>https://cristobal.dev/post/resume-generator/</guid>
       <description>Motivation In the last week I&amp;rsquo;ve been updating my CV and finally I managed to build a nice one using the moderncv class for LaTeX. You can see it here. The problem was when someone asked me the Word version of it (don&amp;rsquo;t ask me why). As I wanted to have the curriculum vitae in this site updated too I look for a way to have my resume in multiple formats.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>http://xn--cristbal-z3a.com/post/hello-world/</link>
+      <link>https://cristobal.dev/post/hello-world/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://xn--cristbal-z3a.com/post/hello-world/</guid>
+      <guid>https://cristobal.dev/post/hello-world/</guid>
       <description>Welcome Hi, my name is Cristóbal and this is the first post of what I hope will be a very useful blog, filled with tips, snippets, tutorials, and much more.</description>
     </item>
     
