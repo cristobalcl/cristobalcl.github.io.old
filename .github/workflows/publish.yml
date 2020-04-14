@@ -19,16 +19,21 @@ jobs:
     - name: Install Hugo
       run: sudo snap install hugo --channel=extended
 
-    - name: Build
+    - name: Setup
       run: |
         cd $GITHUB_WORKSPACE
+        git submodule sync
+        git submodule update --init
+
+    - name: Build
+      run: |
         hugo
 
     - name: Publish
       run: |
         cd public
-        git config --global user.email "ccarnerolinan@gmail.com"
-        git config --global user.name "Cristóbal Carnero Liñán"
+        git config user.email "ccarnerolinan@gmail.com"
+        git config user.name "Cristóbal Carnero Liñán"
         git add .
         git commit -m "Publish"
         git push
