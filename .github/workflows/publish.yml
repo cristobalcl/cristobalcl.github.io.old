@@ -23,3 +23,10 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         hugo
+
+    - name: Publish
+      run: |
+        cd publish
+        git add .
+        git commit -m "Publish"
+        git push
