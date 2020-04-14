@@ -27,6 +27,8 @@ jobs:
     - name: Publish
       run: |
         cd public
+        git config --global user.email "ccarnerolinan@gmail.com"
+        git config --global user.name "Cristóbal Carnero Liñán"
         git add .
         git commit -m "Publish"
         git push
