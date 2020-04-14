@@ -1,5 +1,5 @@
-# cristóbal.com
-[cristóbal.com](http://cristóbal.com) web source code.
+# cristobal.dev
+[cristobal.dev](http://cristobal.dev) web source code.
 
 ## Install
 

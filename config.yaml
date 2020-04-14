@@ -1,7 +1,7 @@
 ---
 theme: "hugo-blanco"
 
-baseurl: "http://xn--cristbal-z3a.com/"
+baseurl: "https://cristobal.dev/"
 canonifyurls: true
 
 languageCode: "en-us"
