@@ -36,4 +36,7 @@ jobs:
         git config user.name "Cristóbal Carnero Liñán"
         git add .
         git commit -m "Publish"
-        git push
+        git branch tmp-branch
+        git checkout master
+        git merge tmp-branch
+        git push origin master
