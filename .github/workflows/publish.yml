@@ -40,4 +40,5 @@ jobs:
         git branch tmp-branch
         git checkout master
         git merge tmp-branch
+        git remote get-url --push origin
         git push gh-page master
