@@ -13,7 +13,7 @@ if [ -n "$1" ]; then
         cd public
         git config user.email "ccarnerolinan@gmail.com"
         git config user.name "Cristóbal Carnero Liñán"
-        git remote set-url --push origin https://cristobalcl:${API_TOKEN_GITHUB}@github.com/cristobalcl/cristobalcl.github.io.git
+        git remote set-url --push origin https://x-access-token:${API_TOKEN_GITHUB}@github.com/cristobalcl/cristobalcl.github.io.git
         git remote
         git add .
         git commit -m "Publish"
