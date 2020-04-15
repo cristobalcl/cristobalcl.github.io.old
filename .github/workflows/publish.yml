@@ -29,16 +29,23 @@ jobs:
       run: |
         hugo
 
+#    - name: Publish
+#      run: |
+#        cd public
+#        git config user.email "ccarnerolinan@gmail.com"
+#        git config user.name "Cristóbal Carnero Liñán"
+#        git remote add gh-page git@github.com:cristobalcl/cristobalcl.github.io.git
+#        git add .
+#        git commit -m "Publish"
+#        git branch tmp-branch
+#        git checkout master
+#        git merge tmp-branch
+#        git remote get-url --push origin
+#        git push gh-page master
     - name: Publish
-      run: |
-        cd public
-        git config user.email "ccarnerolinan@gmail.com"
-        git config user.name "Cristóbal Carnero Liñán"
-        git remote add gh-page git@github.com:cristobalcl/cristobalcl.github.io.git
-        git add .
-        git commit -m "Publish"
-        git branch tmp-branch
-        git checkout master
-        git merge tmp-branch
-        git remote get-url --push origin
-        git push gh-page master
+      uses: johno/actions-push-subdirectories@master
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        args: public cristobalcl cristobalcl.github.io
