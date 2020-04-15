@@ -18,7 +18,6 @@ if [ -n "$1" ]; then
         git branch tmp-branch
         git checkout master
         git merge tmp-branch
-        echo "==> Pushing…"
         git push "https://cristobalcl:${API_TOKEN_GITHUB}@github.com/cristobalcl/cristobalcl.github.io.git" master
     fi
 else
