@@ -14,13 +14,12 @@ if [ -n "$1" ]; then
         git config user.email "ccarnerolinan@gmail.com"
         git config user.name "Cristóbal Carnero Liñán"
         git remote add gh-page "https://cristobalcl:${API_TOKEN_GITHUB}@github.com/cristobalcl/cristobalcl.github.io.git"
-        git remote get-url gh-page
-        git remote
         git add .
         git commit -m "Publish"
         git branch tmp-branch
         git checkout master
         git merge tmp-branch
+        echo "==> Pushing…"
         git push gh-page master
     fi
 else

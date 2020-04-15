@@ -31,4 +31,4 @@ jobs:
     - name: Publish
       run: scripts/cibuild.sh publish
       env:
-        API_TOKEN_GITHUB: XXXXXXX
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
