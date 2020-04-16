@@ -4,11 +4,19 @@
 ## Install
 
 ```bash
-git clone --recurse-submodules -j8 git@github.com:cristobalcl/cristobalcl-src.git
-cd cristobalcl-src
+git clone --recurse-submodules -j8 git@github.com:cristobalcl/cristobalcl.github.io.git
+cd cristobalcl.github.io
+git fetch
+git checkout source
 ```
 
 Install [Hugo](https://gohugo.io/).
+
+Ubuntu:
+
+```
+snap install hugo --channel=extended
+```
 
 Mac:
 
@@ -16,8 +24,14 @@ Mac:
 brew install hugo
 ```
 
-## Update web
+## Update
 
 ```bash
-./deploy.sh
+scripts/update.sh
+```
+
+## Server locally
+
+```bash
+scripts/server.sh
 ```
