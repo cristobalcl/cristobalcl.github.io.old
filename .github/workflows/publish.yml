@@ -22,6 +22,10 @@ jobs:
           hugo-version: '0.69.0'
           # extended: true
 
+      - name: Update CV
+        run: |
+          curl -o content/cv.md https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md
+
       - name: Build
         run: |
           hugo --minify
