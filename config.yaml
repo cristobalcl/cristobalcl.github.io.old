@@ -18,16 +18,15 @@ indexes:
     tag: "tags"
 
 params:
-    tagline: "Full Stack Developer and DevOps."
+    tagline: "Backend Developer and DevOps."
     description: "Cristóbal personal web."
-    keywords: "cristobal,carnero,linan,cv,curriculum,resume,web,personal,home,website,blog"
+    keywords: "cristobal,carnero,linan,backend,engineer,data,devops,python,cv,curriculum,resume,web,personal,home,website,blog"
 
     titleeffect: "3d" # 3d, 3d-float, shadow-multiple, outline, stonewash
 
     github: "https://github.com/cristobalcl"
     linkedin: "http://es.linkedin.com/in/ccarnerolinan/"
     twitter: "https://twitter.com/cristobal_dev"
-    googleplus: "https://www.google.com/+Crist%C3%B3balCarneroLi%C3%B1%C3%A1n"
     email: "ccarnerolinan@gmail.com"
 
     googleAnalyticsTrackingID: "UA-66537544-1"

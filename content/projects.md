@@ -5,6 +5,15 @@ date: "2015-01-30"
 slug: "projects"
 ---
 
+EnRemo.to
+---------
+
+Directory of tools for remote working, and a list of job offers for remote positions in Spanish based companies. Blog and mail list.
+
+This was a #nocode project released in less than 24 hours.
+
+[https://enremo.to](https://enremo.to)
+
 Mukabe
 ------
 
@@ -21,10 +30,12 @@ RegaloInteligente
 
 [![RegaloInteligente](/images/regalointeligente-logo.png "RegaloInteligente")](http://regalointeligente.com)
 
-Gift search engine.
+Gift search engine based on age, gender and price range. Using Amazon API, web crawlers, intelligent search engine,...
 
 * [Web application](http://regalointeligente.com)
-* [Android app](https://play.google.com/store/apps/details?id=com.cristobal.regalointeligente.app)
+* Android app
+
+Read more in this blog post: [Presentación de RegaloInteligente.com](/post/regalointeligente/) (spanish).
 
 Free software projects
 ======================
@@ -34,20 +45,13 @@ WooDPD
 
 WordPress Plugin to integrate DPD purchases in WooCommerce.
 
-[http://woodpdplugin.com](http://woodpdplugin.com)
-
-OrigamiPress
-------------
-
-Blog tool, publishing platform, and CMS developed in Python.
-
-[http://origamipress.com](http://origamipress.com) (yet to be published)
+[https://es.wordpress.org/plugins/woodpd/](https://es.wordpress.org/plugins/woodpd/)
 
 cvBlob
 ------
 
-[![cvBlob](/images/cvblob.png "cvBlob")](http://cvblob.googlecode.com)
+[![cvBlob](/images/cvblob.png "cvBlob")](https://github.com/cristobalcl/cvblob)
 
 Blob library for OpenCV, widely used in computer vision and robotic research.
 
-[http://cvblob.googlecode.com](http://cvblob.googlecode.com)
+[https://github.com/cristobalcl/cvblob](https://github.com/cristobalcl/cvblob)
