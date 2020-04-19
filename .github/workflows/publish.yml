@@ -24,8 +24,7 @@ jobs:
           # extended: true
 
       - name: Update CV
-        run: |
-          curl -o content/cv.md https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md
+        run: curl -o content/cv.md https://raw.githubusercontent.com/cristobalcl/resume/master/output/cv.md
 
       - name: Build
         run: |
