@@ -29,6 +29,8 @@ params:
     medium: "https://medium.com/@cristobalcl"
     email: "ccarnerolinan@gmail.com"
 
+    mediumUsername: "cristobalcl"
+
     googleAnalyticsTrackingID: "UA-66537544-1"
     disqusShortname: "cristbal"
 ...
