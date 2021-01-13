@@ -13,9 +13,9 @@ Expertise in **backend development**, **DevOps** and **Data Engineering**.
 
 Experience in *technical consulting* and *entrepreneurship*. Ability to find creative solutions and innovative ideas.
 
-Specialties: Backend Services, Web Technologies, Scripting & Automation, CI/CD, ETLs, Computer Vision, Machine Learning.
+Specialties: Backend Services, Web Technologies, Scripting & Automation, CI/CD, Software Architecture, Infrastructure Architecture.
 
-Also interested in No-code product development.
+Also interested in No-Code product development.
 
 Beginnings
 ----------
@@ -26,6 +26,6 @@ Firstly I began doing very simple *videogames*, but then I discover the [demosce
 
 I switch to **C** and **assembler** and build some interesting *graphic engines* for 2D and 3D. Also I began using **Emacs**, what made me discover *free software* and **Linux**. Little after I started university and my productivity dropped. I kept learning about **C++**, **Python** and Linux by myself, outside the classroom. It was not all time wasted in the University: for my bachelor tesis I worked in *computer vision* with video, and I developed **cvBlob**, my first free software project. And I use **Vim** since then.
 
-After, I got a job working with what I like most: Linux, C++, Python, **Bash**,... all in the server-side trenches.
+After that I got a job working with what I like most: Linux, C++, Python, **Bash**,... all in the server-side trenches.
 
 Nowadays I'm passionated about web servers, scripting, cloud computing,... and much more.
